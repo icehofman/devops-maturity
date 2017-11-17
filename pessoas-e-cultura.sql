@@ -34,21 +34,11 @@ INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, gr
 INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (9, 'Os SLAs entre os Negócios, Desenvolvimento e Operações atendem aos objetivos de negócio?', 'Não implementada', 1, 'pessoas e cultura', 'estratégia');
 INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (9, 'Os SLAs entre os Negócios, Desenvolvimento e Operações atendem aos objetivos de negócio?', 'Parcialmente implementado', 3, 'pessoas e cultura', 'estratégia');
 INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (9, 'Os SLAs entre os Negócios, Desenvolvimento e Operações atendem aos objetivos de negócio?', 'Totalmente implementado', 5, 'pessoas e cultura', 'estratégia');
-INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (10, 'Existem métricas definidas?
-
-', 'Não há métricas definidas', 1, 'pessoas e cultura', 'estratégia');
-INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (10, 'Existem métricas definidas?
-
-', 'As métricas são definidas e coletadas caso a caso, e pode ser necessário esforço adicional para criar os relatórios de gestão', 2, 'pessoas e cultura', 'estratégia');
-INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (10, 'Existem métricas definidas?
-
-', 'As métricas são coletadas e analisadas usando métodos manuais em planilhas Excel e relatórios são gerados por meio de automação em planilha Excel', 3, 'pessoas e cultura', 'estratégia');
-INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (10, 'Existem métricas definidas?
-
-', 'As métricas para gerenciamento de testes/defeitos, produtividade, etc. são coletadas de forma parcial, com o uso de ferramentas DevOps', 4, 'pessoas e cultura', 'estratégia');
-INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (10, 'Existem métricas definidas?
-
-', 'As métricas são bem definidas e os dados são coletados e analisados com o uso de ferramentas DevOps', 5, 'pessoas e cultura', 'estratégia');
+INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (10, 'Existem métricas definidas?', 'Não há métricas definidas', 1, 'pessoas e cultura', 'estratégia');
+INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (10, 'Existem métricas definidas?', 'As métricas são definidas e coletadas caso a caso, e pode ser necessário esforço adicional para criar os relatórios de gestão', 2, 'pessoas e cultura', 'estratégia');
+INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (10, 'Existem métricas definidas?', 'As métricas são coletadas e analisadas usando métodos manuais em planilhas Excel e relatórios são gerados por meio de automação em planilha Excel', 3, 'pessoas e cultura', 'estratégia');
+INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (10, 'Existem métricas definidas?', 'As métricas para gerenciamento de testes/defeitos, produtividade, etc. são coletadas de forma parcial, com o uso de ferramentas DevOps', 4, 'pessoas e cultura', 'estratégia');
+INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (10, 'Existem métricas definidas?', 'As métricas são bem definidas e os dados são coletados e analisados com o uso de ferramentas DevOps', 5, 'pessoas e cultura', 'estratégia');
 INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (11, 'Como os requisitos são identificados e rastreados para o release de produção?', 'Não há rastreabilidade', 1, 'pessoas e cultura', 'estratégia');
 INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (11, 'Como os requisitos são identificados e rastreados para o release de produção?', 'Rastreabilidade parcial, somente até o design de alto nível (HLD)', 2, 'pessoas e cultura', 'estratégia');
 INSERT INTO devops."Maturidade-DevOps2" (número, questão, diretriz, pontos, grupo, pilar) VALUES (11, 'Como os requisitos são identificados e rastreados para o release de produção?', 'Rastreabilidade usando planilha Excel ou ferramentas caseiras, mas não há planos de dados disponíveis ou não há indicadores de dados suficientes disponíveis', 3, 'pessoas e cultura', 'estratégia');
