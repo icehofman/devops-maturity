@@ -1,7 +1,7 @@
 CREATE TABLE devops.maturidade
 (
-    número INT,
-    questão TEXT,
+    numero INT,
+    questao TEXT,
     diretriz TEXT,
     pontos INT,
     grupo TEXT,
