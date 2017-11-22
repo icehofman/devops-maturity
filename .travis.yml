@@ -13,3 +13,4 @@ before_script:
 
 script:
   - ng build
+  - ng test --watch=false
