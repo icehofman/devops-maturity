@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { QuestionsComponent } from './questions/questions.component';
 import { AppRoutingModule } from './app-routing.module';
 
+import { DataJsonService } from './data-json.service';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -16,7 +18,7 @@ import { AppRoutingModule } from './app-routing.module';
     NgbModule.forRoot(),
     AppRoutingModule
   ],
-  providers: [],
+  providers: [DataJsonService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
