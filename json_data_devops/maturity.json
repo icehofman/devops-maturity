@@ -4498,5 +4498,428 @@
     "pontos": 1,
     "grupo": "feedback contínuo",
     "pilar": "feedback continuo"
+  },
+  {
+    "id": 501,
+    "numero": 4,
+    "questao": "Quais são as ferramentas utilizadas para coletar feedback?",
+    "diretriz": "Baseado em planilha Excel e com manutenção manual",
+    "pontos": 2,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 502,
+    "numero": 4,
+    "questao": "Quais são as ferramentas utilizadas para coletar feedback?",
+    "diretriz": "Baseado em planilha Excel com o histórico monitorado na forma de versões de incidentes",
+    "pontos": 3,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 503,
+    "numero": 4,
+    "questao": "Quais são as ferramentas utilizadas para coletar feedback?",
+    "diretriz": "Ferramentas de gerenciamento de incidentes usadas independentemente do usuário final",
+    "pontos": 4,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 504,
+    "numero": 4,
+    "questao": "Quais são as ferramentas utilizadas para coletar feedback?",
+    "diretriz": "Serviço de coleta de feedback on-line integrado, juntamente com ferramentas de gerencimanto de chamados",
+    "pontos": 5,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 505,
+    "numero": 5,
+    "questao": "Quando o feedback é coletado?",
+    "diretriz": "Somente quando há uma crise",
+    "pontos": 1,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 506,
+    "numero": 5,
+    "questao": "Quando o feedback é coletado?",
+    "diretriz": "Apenas durante crises e pós-implantação.",
+    "pontos": 2,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 507,
+    "numero": 5,
+    "questao": "Quando o feedback é coletado?",
+    "diretriz": "Durante crises, pós-implantação e testes",
+    "pontos": 3,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 508,
+    "numero": 5,
+    "questao": "Quando o feedback é coletado?",
+    "diretriz": "Durante crises, pós-implantação, testes e desenvolvimento",
+    "pontos": 4,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 509,
+    "numero": 5,
+    "questao": "Quando o feedback é coletado?",
+    "diretriz": "Existe a opção de prover feedback a qualquer momento, durante todas as fases.",
+    "pontos": 5,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 510,
+    "numero": 6,
+    "questao": "Como você mede a aceitação / adequação ao propósito? (escolher todas que se adequam)",
+    "diretriz": "Nenhuma das opções acima",
+    "pontos": 1,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 511,
+    "numero": 6,
+    "questao": "Como você mede a aceitação / adequação ao propósito? (escolher todas que se adequam)",
+    "diretriz": "Por meio de testes manuais ou critérios gerais de aceitação",
+    "pontos": 2,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 512,
+    "numero": 6,
+    "questao": "Como você mede a aceitação / adequação ao propósito? (escolher todas que se adequam)",
+    "diretriz": "Por meio de laboratórios de usabilidade ou testes exploratórios",
+    "pontos": 3,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 513,
+    "numero": 6,
+    "questao": "Como você mede a aceitação / adequação ao propósito? (escolher todas que se adequam)",
+    "diretriz": "Por meio de feedback qualitativo do produto (por exemplo: \"me mande um sorriso\")",
+    "pontos": 4,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 514,
+    "numero": 6,
+    "questao": "Como você mede a aceitação / adequação ao propósito? (escolher todas que se adequam)",
+    "diretriz": "Por meio da coleta de telemetria da utilização, com o monitoramento de usuários reais",
+    "pontos": 5,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 515,
+    "numero": 7,
+    "questao": "O que você faz com os dados de utilização de suas aplicações? (escolher todas que se adequam)",
+    "diretriz": "Os dados de utilização não são monitorados",
+    "pontos": 1,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 516,
+    "numero": 7,
+    "questao": "O que você faz com os dados de utilização de suas aplicações? (escolher todas que se adequam)",
+    "diretriz": "Os dados de utilização são inferidos por meio de pedidos de funcionalidades e relatos de erros",
+    "pontos": 2,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 517,
+    "numero": 7,
+    "questao": "O que você faz com os dados de utilização de suas aplicações? (escolher todas que se adequam)",
+    "diretriz": "Os dados de utilização são monitorados pelo departamento de Marketing",
+    "pontos": 3,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 518,
+    "numero": 7,
+    "questao": "O que você faz com os dados de utilização de suas aplicações? (escolher todas que se adequam)",
+    "diretriz": "Os dados de utilização ajudam a esclarecer sobre os próximos passos no backlog de produtos",
+    "pontos": 4,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 519,
+    "numero": 7,
+    "questao": "O que você faz com os dados de utilização de suas aplicações? (escolher todas que se adequam)",
+    "diretriz": "Os dados de utilização são combinados com os dados de performance e avaliados para cada release",
+    "pontos": 5,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 520,
+    "numero": 8,
+    "questao": "Como você garante que a qualidade do serviço ou os requisitos não-funcionais são atendidos? (escolher todas que se adequam)",
+    "diretriz": "Nenhuma das opções acima",
+    "pontos": 1,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 521,
+    "numero": 8,
+    "questao": "Como você garante que a qualidade do serviço ou os requisitos não-funcionais são atendidos? (escolher todas que se adequam)",
+    "diretriz": "Nós anotamos todos os requisitos",
+    "pontos": 2,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 522,
+    "numero": 8,
+    "questao": "Como você garante que a qualidade do serviço ou os requisitos não-funcionais são atendidos? (escolher todas que se adequam)",
+    "diretriz": "Testamos na produção contra os nossos serviços em execução para garantir que eles funcionam para os usuários reais e não podem ser violados",
+    "pontos": 3,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 523,
+    "numero": 8,
+    "questao": "Como você garante que a qualidade do serviço ou os requisitos não-funcionais são atendidos? (escolher todas que se adequam)",
+    "diretriz": "Nós temos uma definição consistente de feito (done)",
+    "pontos": 4,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 524,
+    "numero": 8,
+    "questao": "Como você garante que a qualidade do serviço ou os requisitos não-funcionais são atendidos? (escolher todas que se adequam)",
+    "diretriz": "Nós automatizamos todos os testes para: desempenho, segurança, localização e outras qualidades de serviço",
+    "pontos": 5,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 525,
+    "numero": 9,
+    "questao": "Como você valida designs de experiência do usuário? (escolher todas que se adequam)",
+    "diretriz": "Por meio de revisão escrita da especificação ou do documento",
+    "pontos": 1,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 526,
+    "numero": 9,
+    "questao": "Como você valida designs de experiência do usuário? (escolher todas que se adequam)",
+    "diretriz": "Por meio de revisão via storyboard com o proprietário do produto e/ou com as partes interessadas",
+    "pontos": 3,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 527,
+    "numero": 9,
+    "questao": "Como você valida designs de experiência do usuário? (escolher todas que se adequam)",
+    "diretriz": "Por meio de revisão via storyboard com os usuários internos (negócio)",
+    "pontos": 4,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 528,
+    "numero": 9,
+    "questao": "Como você valida designs de experiência do usuário? (escolher todas que se adequam)",
+    "diretriz": "Por meio de testes A/B em produção",
+    "pontos": 5,
+    "grupo": "feedback contínuo",
+    "pilar": "feedback continuo"
+  },
+  {
+    "id": 529,
+    "numero": 10,
+    "questao": "Como o feedback do usuário é analisado e otimizado para melhoria contínua?",
+    "diretriz": "Não há otimização para melhoria contínua",
+    "pontos": 1,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 530,
+    "numero": 10,
+    "questao": "Como o feedback do usuário é analisado e otimizado para melhoria contínua?",
+    "diretriz": "Por meio de discussões da equipe, com base em dados de planilha Excel",
+    "pontos": 2,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 531,
+    "numero": 10,
+    "questao": "Como o feedback do usuário é analisado e otimizado para melhoria contínua?",
+    "diretriz": "São usadas técnicas como RCA, entrevistas, métricas, filtros de dados",
+    "pontos": 3,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 532,
+    "numero": 10,
+    "questao": "Como o feedback do usuário é analisado e otimizado para melhoria contínua?",
+    "diretriz": "São usados relatórios padrão de ferramentas de feedback e o resultado é otimizado",
+    "pontos": 4,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 533,
+    "numero": 10,
+    "questao": "Como o feedback do usuário é analisado e otimizado para melhoria contínua?",
+    "diretriz": "São usadas ferramentas de análise DevOps e feedback otimizado para melhoria contínua",
+    "pontos": 5,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 534,
+    "numero": 11,
+    "questao": "Como os pontos críticos obtidos do feedback são convertidos em itens de ação?",
+    "diretriz": "Não coletamos feedback de forma consistente",
+    "pontos": 1,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 535,
+    "numero": 11,
+    "questao": "Como os pontos críticos obtidos do feedback são convertidos em itens de ação?",
+    "diretriz": "Usando planilhas Excel",
+    "pontos": 3,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 536,
+    "numero": 11,
+    "questao": "Como os pontos críticos obtidos do feedback são convertidos em itens de ação?",
+    "diretriz": "Via ferramenta DevOps, integrada com o planejamento de negócios",
+    "pontos": 5,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 537,
+    "numero": 12,
+    "questao": "As suas equipes conseguem acessar facilmente dados analíticos de comportamento e utilização, a fim de conduzir melhorias?",
+    "diretriz": "Não implementada",
+    "pontos": 1,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 538,
+    "numero": 12,
+    "questao": "As suas equipes conseguem acessar facilmente dados analíticos de comportamento e utilização, a fim de conduzir melhorias?",
+    "diretriz": "Parcialmente implementado",
+    "pontos": 3,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 539,
+    "numero": 12,
+    "questao": "As suas equipes conseguem acessar facilmente dados analíticos de comportamento e utilização, a fim de conduzir melhorias?",
+    "diretriz": "Totalmente implementado",
+    "pontos": 5,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 540,
+    "numero": 13,
+    "questao": "Você automatiza o feedback de performance crítica para otimizar ainda mais aplicações e serviços?",
+    "diretriz": "Não implementada",
+    "pontos": 1,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 541,
+    "numero": 13,
+    "questao": "Você automatiza o feedback de performance crítica para otimizar ainda mais aplicações e serviços?",
+    "diretriz": "Parcialmente implementado",
+    "pontos": 3,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 542,
+    "numero": 13,
+    "questao": "Você automatiza o feedback de performance crítica para otimizar ainda mais aplicações e serviços?",
+    "diretriz": "Totalmente implementado",
+    "pontos": 5,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 543,
+    "numero": 14,
+    "questao": "Existe um mecanismo de feedback entre equipes? Como isto é praticado?",
+    "diretriz": "Os feedbacks não são compartilhados",
+    "pontos": 1,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 544,
+    "numero": 14,
+    "questao": "Existe um mecanismo de feedback entre equipes? Como isto é praticado?",
+    "diretriz": "Feedbacks são compartilhados apenas quando ocorrem problemas",
+    "pontos": 2,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 545,
+    "numero": 14,
+    "questao": "Existe um mecanismo de feedback entre equipes? Como isto é praticado?",
+    "diretriz": "Feedbacks são compartilhados periodicamente",
+    "pontos": 3,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 546,
+    "numero": 14,
+    "questao": "Existe um mecanismo de feedback entre equipes? Como isto é praticado?",
+    "diretriz": "Feedbacks são compartilhados durante os releases, mas não são monitorados",
+    "pontos": 4,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
+  },
+  {
+    "id": 547,
+    "numero": 14,
+    "questao": "Existe um mecanismo de feedback entre equipes? Como isto é praticado?",
+    "diretriz": "Feedbacks são compartilhados durante os releases, e são monitorados",
+    "pontos": 5,
+    "grupo": "feedback contínuo",
+    "pilar": "otimização"
   }
 ]
