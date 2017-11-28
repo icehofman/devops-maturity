@@ -1,9 +1,10 @@
 CREATE TABLE devops.maturidade
 (
-    numero INT,
-    questao TEXT,
+    id SERIAL NOT NULL CONSTRAINT maturidade_id_pk PRIMARY KEY,
+    numero   INTEGER,
+    questao  TEXT,
     diretriz TEXT,
-    pontos INT,
-    grupo TEXT,
-    pilar TEXT
+    pontos   INTEGER,
+    grupo    TEXT,
+    pilar    TEXT
 );
