@@ -7,7 +7,7 @@ export class QuestionsService {
   
   constructor(private http : HttpClient) { }
   
-  get_questions(){
+  getQuestionsAll(){
     return this.http.get(this.baseUrl + '/questions');
   }
 }
