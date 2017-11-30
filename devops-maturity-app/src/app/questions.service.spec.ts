@@ -13,6 +13,6 @@ describe('QuestionsService', () => {
   });
 
   it('should be created', inject([QuestionsService], (service: QuestionsService) => {
-    expect(service).toBeTruthy();
+    expect(service.baseUrl).toBeTruthy();
   }));
 });
