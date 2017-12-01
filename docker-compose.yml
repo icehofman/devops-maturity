@@ -1,0 +1,16 @@
+version: '3'
+services:
+  web:
+    build: ./devops-maturity-app
+    ports:
+     - "8080:80"
+    depends_on: 
+      - api  
+    links:
+      - api
+ 
+  api:
+    build: ./json_data_devops
+    ports:
+     - "3000:3000"
+    restart: always 
