@@ -12,7 +12,7 @@ import { QuestionsService } from './questions.service';
 export class AppComponent {
   title = 'Avaliação de maturidade DevOps';
 
-  private questionsObservable: Observable<Iquestions>;
+  public questionsObservable: Observable<Iquestions>;
 
   constructor(private questionsService: QuestionsService) { }
 
