@@ -1,10 +1,11 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Iquestions } from './iquestions';
+import { environment } from '../environments/environment';
 
 @Injectable()
 export class QuestionsService {
-  baseUrl: string = "http://localhost:3000";
+  baseUrl: string = environment.apiDevOpsMaturityUrl;
 
   constructor(private http: HttpClient) { }
 
