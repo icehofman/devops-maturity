@@ -1,0 +1,4819 @@
+{
+  "questions": [
+      {
+        "id": 1,
+        "numero": 1,
+        "questao": "Seus processos são compartilhados entre desenvolvimento e operações?",
+        "diretriz": "Dev e Ops usam processos separados e redundantes, com compartilhamento limitado",
+        "pontos": 1,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 2,
+        "numero": 1,
+        "questao": "Seus processos são compartilhados entre desenvolvimento e operações?",
+        "diretriz": "Dev e Ops usam processos distintos, mas as interfaces são alinhadas e compartilhadas",
+        "pontos": 2,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 3,
+        "numero": 1,
+        "questao": "Seus processos são compartilhados entre desenvolvimento e operações?",
+        "diretriz": "Alguns elementos do processo são reaproveitados entre Dev e Ops",
+        "pontos": 3,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 4,
+        "numero": 1,
+        "questao": "Seus processos são compartilhados entre desenvolvimento e operações?",
+        "diretriz": "Dev e Ops usam o mesmo conjunto de processos, mas alguns pontos ainda não estão unificados",
+        "pontos": 4,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 5,
+        "numero": 1,
+        "questao": "Seus processos são compartilhados entre desenvolvimento e operações?",
+        "diretriz": "Todos os processos são unificados entre Dev e Ops",
+        "pontos": 5,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 6,
+        "numero": 2,
+        "questao": "Você trabalha de forma integrada e compartilha com suas ferramentas entre Dev e Ops?",
+        "diretriz": "Dev e Ops usam um conjunto de ferramentas distintas e redundantes",
+        "pontos": 1,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 7,
+        "numero": 2,
+        "questao": "Você trabalha de forma integrada e compartilha com suas ferramentas entre Dev e Ops?",
+        "diretriz": "Há pouca integração de ferramentas e algum compartilhamento de status, via painéis de controle",
+        "pontos": 2,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 8,
+        "numero": 2,
+        "questao": "Você trabalha de forma integrada e compartilha com suas ferramentas entre Dev e Ops?",
+        "diretriz": "As ferramentas são parcialmente compartilhadas entre Dev, QA e Ops",
+        "pontos": 3,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 9,
+        "numero": 2,
+        "questao": "Você trabalha de forma integrada e compartilha com suas ferramentas entre Dev e Ops?",
+        "diretriz": "As ferramentas entre Dev, QA e Ops são integradas, mas não há um único fluxo entre elas ",
+        "pontos": 4,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 10,
+        "numero": 2,
+        "questao": "Você trabalha de forma integrada e compartilha com suas ferramentas entre Dev e Ops?",
+        "diretriz": "Todas as ferramentas funcionam como uma única cadeia de ferramentas, totalmente integradas e automatizadas",
+        "pontos": 5,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 11,
+        "numero": 3,
+        "questao": "Vocês colaboram para a construção de conhecimento compartilhado?",
+        "diretriz": "Não há compartilhamento de conhecimento entre Dev e Ops",
+        "pontos": 1,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 12,
+        "numero": 3,
+        "questao": "Vocês colaboram para a construção de conhecimento compartilhado?",
+        "diretriz": "O compartilhamento de conhecimento entre Dev e Ops é limitado",
+        "pontos": 2,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 13,
+        "numero": 3,
+        "questao": "Vocês colaboram para a construção de conhecimento compartilhado?",
+        "diretriz": "O compartilhamento de conhecimento entre Dev e Ops é moderado",
+        "pontos": 3,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 14,
+        "numero": 3,
+        "questao": "Vocês colaboram para a construção de conhecimento compartilhado?",
+        "diretriz": "Acontecem retrospectivas de conhecimento regulares entre Dev, Ops e infraestrutura",
+        "pontos": 4,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 15,
+        "numero": 3,
+        "questao": "Vocês colaboram para a construção de conhecimento compartilhado?",
+        "diretriz": "A gestão de conhecimento e o repositório são unificados",
+        "pontos": 5,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 16,
+        "numero": 4,
+        "questao": "Vocês dão mais ênfase às tarefas do que aos papéis individuais?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 17,
+        "numero": 4,
+        "questao": "Vocês dão mais ênfase às tarefas do que aos papéis individuais?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 18,
+        "numero": 4,
+        "questao": "Vocês dão mais ênfase às tarefas do que aos papéis individuais?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "pessoas e cultura",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 19,
+        "numero": 5,
+        "questao": "Os seus funcionários conhecem os princípios básicos de DevOps e o seu benefício para a empresa?",
+        "diretriz": "Poucas conversas e nenhuma educação interna sobre DevOps",
+        "pontos": 1,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 20,
+        "numero": 5,
+        "questao": "Os seus funcionários conhecem os princípios básicos de DevOps e o seu benefício para a empresa?",
+        "diretriz": "As equipes estão melhorando sua compreensão sobre DevOps, mas as atividades permanecem desalinhadas na empresa como um todo",
+        "pontos": 2,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 21,
+        "numero": 5,
+        "questao": "Os seus funcionários conhecem os princípios básicos de DevOps e o seu benefício para a empresa?",
+        "diretriz": "Existe um consenso sobre a criação de atividades a respeito dos princípios básicos de DevOps e como aplicá-los",
+        "pontos": 3,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 22,
+        "numero": 5,
+        "questao": "Os seus funcionários conhecem os princípios básicos de DevOps e o seu benefício para a empresa?",
+        "diretriz": "Existe um consenso na empresa acerca dos princípios básicos de DevOps e tem-se contruído uma forma de aplicá-los",
+        "pontos": 4,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 23,
+        "numero": 5,
+        "questao": "Os seus funcionários conhecem os princípios básicos de DevOps e o seu benefício para a empresa?",
+        "diretriz": "Os princípios e as práticas DevOps são totalmente institucionalizados em toda a empresa",
+        "pontos": 5,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 24,
+        "numero": 6,
+        "questao": "A sua empresa está qualificada em métodos e práticas DevOps?",
+        "diretriz": "Não existe experiência nem skill de DevOps na empresa",
+        "pontos": 1,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 25,
+        "numero": 6,
+        "questao": "A sua empresa está qualificada em métodos e práticas DevOps?",
+        "diretriz": "Existem pessoas na empresa que possuem experiência e conhecimento relevantes sobre DevOps",
+        "pontos": 2,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 26,
+        "numero": 6,
+        "questao": "A sua empresa está qualificada em métodos e práticas DevOps?",
+        "diretriz": "Vários times têm alguma experiência e habilidades em DevOps",
+        "pontos": 3,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 27,
+        "numero": 6,
+        "questao": "A sua empresa está qualificada em métodos e práticas DevOps?",
+        "diretriz": "Vários times têm total experiência e habilidades em DevOps",
+        "pontos": 4,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 28,
+        "numero": 6,
+        "questao": "A sua empresa está qualificada em métodos e práticas DevOps?",
+        "diretriz": "Todas as equipes de Dev, Ops e Infraestrutura têm total experiência e habilidades em DevOps",
+        "pontos": 5,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 29,
+        "numero": 7,
+        "questao": "A sua equipe está incentivada e motivada para aplicar as práticas DevOps?",
+        "diretriz": "Nenhum incentivo especial para alinhar Dev e Ops e, além disso, há uma postura defensiva quanto à mudança",
+        "pontos": 1,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 30,
+        "numero": 7,
+        "questao": "A sua equipe está incentivada e motivada para aplicar as práticas DevOps?",
+        "diretriz": "Nenhum incentivo especial para alinhar Dev e Ops e o sentimento é neutro",
+        "pontos": 2,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 31,
+        "numero": 7,
+        "questao": "A sua equipe está incentivada e motivada para aplicar as práticas DevOps?",
+        "diretriz": "A organização tem alguns visionários DevOps e já se nota um sentimento positivo e tentativas de alinhamento entre Dev e Ops",
+        "pontos": 3,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 32,
+        "numero": 7,
+        "questao": "A sua equipe está incentivada e motivada para aplicar as práticas DevOps?",
+        "diretriz": "O alinhamento entre Dev e Ops está incorporado na estratégia - a maioria das pessoas são positivas sobre a mudança",
+        "pontos": 4,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 33,
+        "numero": 7,
+        "questao": "A sua equipe está incentivada e motivada para aplicar as práticas DevOps?",
+        "diretriz": "Dev, Ops e Infraestrutura totalmente alinhados por meio de incentivos e toda a empresa está entusiasmada com DevOps",
+        "pontos": 5,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 34,
+        "numero": 8,
+        "questao": "A sua estrutura organizacional está adaptada para DevOps?",
+        "diretriz": "A estrutura da empresa é guiada por tecnologia, com abordagem separada entre Dev e Ops para os releases",
+        "pontos": 1,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 35,
+        "numero": 8,
+        "questao": "A sua estrutura organizacional está adaptada para DevOps?",
+        "diretriz": "Dev segue um portfólio de aplicações, enquanto Ops permanece guiado por infraestrutura e tecnologia",
+        "pontos": 2,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 36,
+        "numero": 8,
+        "questao": "A sua estrutura organizacional está adaptada para DevOps?",
+        "diretriz": "Dev e Ops seguem um portfólio de aplicações, mas o funcionamento de algumas aplicações permanece separado",
+        "pontos": 3,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 37,
+        "numero": 8,
+        "questao": "A sua estrutura organizacional está adaptada para DevOps?",
+        "diretriz": "Dev e Ops parcialmente combinados em equipes de release, mas com algum trabalho ainda feito por fora",
+        "pontos": 4,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 38,
+        "numero": 8,
+        "questao": "A sua estrutura organizacional está adaptada para DevOps?",
+        "diretriz": "O conjunto Dev e Ops está totalmente estratificado por aplicação, plataforma e infraestrutura",
+        "pontos": 5,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 39,
+        "numero": 9,
+        "questao": "Qual é a sua política em relação ao desenvolvimento de aplicativos móveis?",
+        "diretriz": "Não desenvolvemos aplicativos móveis",
+        "pontos": 1,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 40,
+        "numero": 9,
+        "questao": "Qual é a sua política em relação ao desenvolvimento de aplicativos móveis?",
+        "diretriz": "Nós terceirizamos o desenvolvimento de aplicativos móveis para especialistas",
+        "pontos": 2,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 41,
+        "numero": 9,
+        "questao": "Qual é a sua política em relação ao desenvolvimento de aplicativos móveis?",
+        "diretriz": "Desenvolvemos apenas aplicações web compatíveis com dispositivos móveis, não aplicações mobile nativas",
+        "pontos": 3,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 42,
+        "numero": 9,
+        "questao": "Qual é a sua política em relação ao desenvolvimento de aplicativos móveis?",
+        "diretriz": "Desenvolvemos primeiro os serviços de nuvem comuns e tentamos manter o mínimo possível de lógica única no dispositivo",
+        "pontos": 4,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 43,
+        "numero": 9,
+        "questao": "Qual é a sua política em relação ao desenvolvimento de aplicativos móveis?",
+        "diretriz": "Usamos frameworks para coordenar aplicativos em diferentes dispositivos móveis e na web",
+        "pontos": 5,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 44,
+        "numero": 10,
+        "questao": "A sua metodologia de entrega está bem alinhada com os princípios DevOps?",
+        "diretriz": "Usamos metodologia tradicional de desenvolvimento (waterfall)",
+        "pontos": 1,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 45,
+        "numero": 10,
+        "questao": "A sua metodologia de entrega está bem alinhada com os princípios DevOps?",
+        "diretriz": "Há alguma metodologia ágil, mas os processos de QA e release são separados e não ágeis",
+        "pontos": 2,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 46,
+        "numero": 10,
+        "questao": "A sua metodologia de entrega está bem alinhada com os princípios DevOps?",
+        "diretriz": "Agilidade integrada nos processos de QA, mas o processo de release é separado e não ágil",
+        "pontos": 3,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 47,
+        "numero": 10,
+        "questao": "A sua metodologia de entrega está bem alinhada com os princípios DevOps?",
+        "diretriz": "Todas as equipes de Dev e a maioria das equipes de Ops executam processo ágil fim-a-fim até a produção",
+        "pontos": 4,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 48,
+        "numero": 10,
+        "questao": "A sua metodologia de entrega está bem alinhada com os princípios DevOps?",
+        "diretriz": "Agilidade fim-a-fim através de todas as equipes: aplicações, plataforma e infraestrutura.",
+        "pontos": 5,
+        "grupo": "pessoas e cultura",
+        "pilar": "estratégia"
+      },
+      {
+        "id": 49,
+        "numero": 1,
+        "questao": "Como os requisitos funcionais e de negócios são coletados junto ao cliente?",
+        "diretriz": "Os requisitos são coletados em documentos Word/Excel e a comunicação é feita apenas via e-mail",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 50,
+        "numero": 1,
+        "questao": "Como os requisitos funcionais e de negócios são coletados junto ao cliente?",
+        "diretriz": "Os requisitos são versionados em um sistema de SCM",
+        "pontos": 2,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 51,
+        "numero": 1,
+        "questao": "Como os requisitos funcionais e de negócios são coletados junto ao cliente?",
+        "diretriz": "Os requisitos são coletados por meio de ferramenta ITSM",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 52,
+        "numero": 1,
+        "questao": "Como os requisitos funcionais e de negócios são coletados junto ao cliente?",
+        "diretriz": "Os requisitos são coletados usando uma ferramenta DevOps, como um ALM",
+        "pontos": 4,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 53,
+        "numero": 1,
+        "questao": "Como os requisitos funcionais e de negócios são coletados junto ao cliente?",
+        "diretriz": "Os requisitos são coletados usando uma ferramenta DevOps, que está integrada com as demais ferramentas DevOps usadas para as demais funcionalidades do processo de Dev e Ops",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 54,
+        "numero": 2,
+        "questao": "Como você captura o trabalho a ser feito com o time (dentro de casa)? Utiliza alguma ferramenta?",
+        "diretriz": "Não há um processo definido",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 55,
+        "numero": 2,
+        "questao": "Como você captura o trabalho a ser feito com o time (dentro de casa)? Utiliza alguma ferramenta?",
+        "diretriz": "Os requisitos são coletados em documentos Word/Excel e a comunicação é feita apenas via e-mail",
+        "pontos": 2,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 56,
+        "numero": 2,
+        "questao": "Como você captura o trabalho a ser feito com o time (dentro de casa)? Utiliza alguma ferramenta?",
+        "diretriz": "Por meio de um backlog do time, quadro Kanban físico ou virtual, ou fila dedicada de ticket / incidente",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 57,
+        "numero": 2,
+        "questao": "Como você captura o trabalho a ser feito com o time (dentro de casa)? Utiliza alguma ferramenta?",
+        "diretriz": "Os backlogs combinam funcionalidade e trabalho de site ao vivo e hipóteses continuamente refinadas com base em evidências de produção",
+        "pontos": 4,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 58,
+        "numero": 2,
+        "questao": "Como você captura o trabalho a ser feito com o time (dentro de casa)? Utiliza alguma ferramenta?",
+        "diretriz": "Por meio de um combinado de backlogs departamentais ou de todo o projeto e/ou quadros Kanban abrangendo várias equipes",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 59,
+        "numero": 3,
+        "questao": "Qual é granularidade dos requisitos de negócios?",
+        "diretriz": "Os requisitos são apresentados como grandes documentos, que são uma coletânea de vários requisitos menores",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 60,
+        "numero": 3,
+        "questao": "Qual é granularidade dos requisitos de negócios?",
+        "diretriz": "Os requisitos são elaborados de forma nítida, o que pode ajudar a criar pequenos entregáveis de software",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 61,
+        "numero": 4,
+        "questao": "Como os requisitos são priorizados?",
+        "diretriz": "A priorização é feita especialmente para cada projeto, de forma pontual e sem ferramenta",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 62,
+        "numero": 4,
+        "questao": "Como os requisitos são priorizados?",
+        "diretriz": "A priorização é feita utilizando planilhas Excel e com a realização de reuniões com as partes interessadas",
+        "pontos": 2,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 63,
+        "numero": 4,
+        "questao": "Como os requisitos são priorizados?",
+        "diretriz": "A priorização é feita de forma ágil, mas sem o uso de uma ferramenta DevOps para o gerenciamento de requisitos",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 64,
+        "numero": 4,
+        "questao": "Como os requisitos são priorizados?",
+        "diretriz": "A priorização é feita de forma ágil, usando uma ferramenta de gerenciamento de requisitos, mas sem integração com as demais ferramentas usadas por Dev e Ops",
+        "pontos": 4,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 65,
+        "numero": 4,
+        "questao": "Como os requisitos são priorizados?",
+        "diretriz": "A priorização é feita de forma ágil, usando uma ferramenta DevOps de gerenciamento de requisitos e feita de forma integrada com as demais ferramentas usadas por Dev e Ops",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 66,
+        "numero": 5,
+        "questao": "Como o trabalho é priorizado?",
+        "diretriz": "Não há um processo definido",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 67,
+        "numero": 5,
+        "questao": "Como o trabalho é priorizado?",
+        "diretriz": "Há uma tentativa de priorização dentro das equipes, mas ainda é feito de forma inconsistente e irregular",
+        "pontos": 2,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 68,
+        "numero": 5,
+        "questao": "Como o trabalho é priorizado?",
+        "diretriz": "Consistentemente dentro das equipes, mas as prioridades entre as equipes podem ser incompatíveis",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 69,
+        "numero": 5,
+        "questao": "Como o trabalho é priorizado?",
+        "diretriz": "De forma consistente em toda a empresa",
+        "pontos": 4,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 70,
+        "numero": 5,
+        "questao": "Como o trabalho é priorizado?",
+        "diretriz": "De forma contínua, por meio de um backlog orientado por hipóteses, com base em experiências mensuráveis e coleta de dados de produção",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "requisitos"
+      },
+      {
+        "id": 71,
+        "numero": 6,
+        "questao": "Como as atividades de projeto são planejadas?",
+        "diretriz": "Os planos do projeto são feitos caso a caso, contendo apenas as datas de entrega de alto nível",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 72,
+        "numero": 6,
+        "questao": "Como as atividades de projeto são planejadas?",
+        "diretriz": "O planejamento do projeto é feito de forma cascata (waterfall), usando ferramentas de gestão de projetos",
+        "pontos": 2,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 73,
+        "numero": 6,
+        "questao": "Como as atividades de projeto são planejadas?",
+        "diretriz": "O planejamento do projeto é feito de forma ágil, usando planilhas Excel",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 74,
+        "numero": 6,
+        "questao": "Como as atividades de projeto são planejadas?",
+        "diretriz": "O planejamento do projeto é feito de forma ágil, usando ferramentas de gestão de projetos",
+        "pontos": 4,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 75,
+        "numero": 6,
+        "questao": "Como as atividades de projeto são planejadas?",
+        "diretriz": "O planejamento do projeto é feito de forma ágil, usando ferramentas DevOps, como um ALM",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 76,
+        "numero": 7,
+        "questao": "Os projetos têm um dono, que comunica ativamente as solicitações e as prioridades?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 77,
+        "numero": 7,
+        "questao": "Os projetos têm um dono, que comunica ativamente as solicitações e as prioridades?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 78,
+        "numero": 7,
+        "questao": "Os projetos têm um dono, que comunica ativamente as solicitações e as prioridades?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 79,
+        "numero": 8,
+        "questao": "Você usa iterações de duração fixa no seu planejamento?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 80,
+        "numero": 8,
+        "questao": "Você usa iterações de duração fixa no seu planejamento?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 81,
+        "numero": 8,
+        "questao": "Você usa iterações de duração fixa no seu planejamento?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 82,
+        "numero": 9,
+        "questao": "Os SLAs entre os Negócios, Desenvolvimento e Operações atendem aos objetivos de negócio?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 83,
+        "numero": 9,
+        "questao": "Os SLAs entre os Negócios, Desenvolvimento e Operações atendem aos objetivos de negócio?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 84,
+        "numero": 9,
+        "questao": "Os SLAs entre os Negócios, Desenvolvimento e Operações atendem aos objetivos de negócio?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 85,
+        "numero": 10,
+        "questao": "Existem métricas definidas?",
+        "diretriz": "Não há métricas definidas",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 86,
+        "numero": 10,
+        "questao": "Existem métricas definidas?",
+        "diretriz": "As métricas são definidas e coletadas caso a caso, e pode ser necessário esforço adicional para criar os relatórios de gestão",
+        "pontos": 2,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 87,
+        "numero": 10,
+        "questao": "Existem métricas definidas?",
+        "diretriz": "As métricas são coletadas e analisadas usando métodos manuais em planilhas Excel e relatórios são gerados por meio de automação em planilha Excel",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 88,
+        "numero": 10,
+        "questao": "Existem métricas definidas?",
+        "diretriz": "As métricas para gerenciamento de testes/defeitos, produtividade, etc. são coletadas de forma parcial, com o uso de ferramentas DevOps",
+        "pontos": 4,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 89,
+        "numero": 10,
+        "questao": "Existem métricas definidas?",
+        "diretriz": "As métricas são bem definidas e os dados são coletados e analisados com o uso de ferramentas DevOps",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "planejamento"
+      },
+      {
+        "id": 90,
+        "numero": 11,
+        "questao": "Como os requisitos são identificados e rastreados para o release de produção?",
+        "diretriz": "Não há rastreabilidade",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 91,
+        "numero": 11,
+        "questao": "Como os requisitos são identificados e rastreados para o release de produção?",
+        "diretriz": "Rastreabilidade parcial, somente até o design de alto nível (HLD)",
+        "pontos": 2,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 92,
+        "numero": 11,
+        "questao": "Como os requisitos são identificados e rastreados para o release de produção?",
+        "diretriz": "Rastreabilidade usando planilha Excel ou ferramentas caseiras, mas não há planos de dados disponíveis ou não há indicadores de dados suficientes disponíveis",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 93,
+        "numero": 11,
+        "questao": "Como os requisitos são identificados e rastreados para o release de produção?",
+        "diretriz": "Rastreabilidade usando planilha Excel ou ferramentas caseiras, sendo os releases muito bem planejados e rastreados, mas as atualizações são manuais",
+        "pontos": 4,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 94,
+        "numero": 11,
+        "questao": "Como os requisitos são identificados e rastreados para o release de produção?",
+        "diretriz": "O Gerenciamento do Ciclo de Vida Colaborativo (CLM) do software está  implementado usando ferramentos DevOps e com processos ágeis",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 95,
+        "numero": 12,
+        "questao": "As partes interessadas conseguem visualizar os requisitos do projeto e o status do projeto para apoiar a colaboração?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 96,
+        "numero": 12,
+        "questao": "As partes interessadas conseguem visualizar os requisitos do projeto e o status do projeto para apoiar a colaboração?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 97,
+        "numero": 12,
+        "questao": "As partes interessadas conseguem visualizar os requisitos do projeto e o status do projeto para apoiar a colaboração?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 98,
+        "numero": 13,
+        "questao": "Os critérios de aceite são claramente definidos e obedecidos?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 99,
+        "numero": 13,
+        "questao": "Os critérios de aceite são claramente definidos e obedecidos?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 100,
+        "numero": 13,
+        "questao": "Os critérios de aceite são claramente definidos e obedecidos?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 101,
+        "numero": 14,
+        "questao": "As diferentes arquiteturas de sistemas são bem documentadas e bem mantidas?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 102,
+        "numero": 14,
+        "questao": "As diferentes arquiteturas de sistemas são bem documentadas e bem mantidas?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 103,
+        "numero": 14,
+        "questao": "As diferentes arquiteturas de sistemas são bem documentadas e bem mantidas?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 104,
+        "numero": 15,
+        "questao": "Você tem uma visão integrada do processo de promoção de código de Dev, para QA e para produção?",
+        "diretriz": "Não há disponibilidade de uma visão integrada",
+        "pontos": 1,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 105,
+        "numero": 15,
+        "questao": "Você tem uma visão integrada do processo de promoção de código de Dev, para QA e para produção?",
+        "diretriz": "Forma manual e dependente de pessoas para gerar relatórios, portanto sujeito a erros",
+        "pontos": 2,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 106,
+        "numero": 15,
+        "questao": "Você tem uma visão integrada do processo de promoção de código de Dev, para QA e para produção?",
+        "diretriz": "Ferramenta caseira ou integrações de algumas ferramentas de código aberto que produzem relatórios de status, não relatórios de análise",
+        "pontos": 3,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 107,
+        "numero": 15,
+        "questao": "Você tem uma visão integrada do processo de promoção de código de Dev, para QA e para produção?",
+        "diretriz": "Uma visão parcial do processo de promoção do código está disponível, por meio de ferramentas DevOps",
+        "pontos": 4,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 108,
+        "numero": 15,
+        "questao": "Você tem uma visão integrada do processo de promoção de código de Dev, para QA e para produção?",
+        "diretriz": "Painel totalmente integrado disponível desde Dev até Ops, usando ferramentas DevOps de gerenciamento de release",
+        "pontos": 5,
+        "grupo": "planejamento continuo",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 109,
+        "numero": 1,
+        "questao": "Como o seu código-fonte é gerenciado e como é feito o controle de versão?",
+        "diretriz": "Nenhuma das opções acima",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 110,
+        "numero": 1,
+        "questao": "Como o seu código-fonte é gerenciado e como é feito o controle de versão?",
+        "diretriz": "Por meio de sistemas de arquivos, drives de rede compartilhados e backups",
+        "pontos": 2,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 111,
+        "numero": 1,
+        "questao": "Como o seu código-fonte é gerenciado e como é feito o controle de versão?",
+        "diretriz": "Por meio de sistema de controle de versão instalado em um servidor",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 112,
+        "numero": 1,
+        "questao": "Como o seu código-fonte é gerenciado e como é feito o controle de versão?",
+        "diretriz": "Por meio de sistema de controle de versão distribuído",
+        "pontos": 4,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 113,
+        "numero": 1,
+        "questao": "Como o seu código-fonte é gerenciado e como é feito o controle de versão?",
+        "diretriz": "Por meio de sistemas de compartilhamento de código-fonte",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 114,
+        "numero": 2,
+        "questao": "Como um release é planejado?",
+        "diretriz": "Não há muito planejamento de release. As datas precisam ser modificadas frequentemente ou recursos precisam ser adicionados",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 115,
+        "numero": 2,
+        "questao": "Como um release é planejado?",
+        "diretriz": "Modelo waterfall. Os grandes problemas são descobertos muito tarde no ciclo de desenvolvimento",
+        "pontos": 2,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 116,
+        "numero": 2,
+        "questao": "Como um release é planejado?",
+        "diretriz": "Há um planejamento iterativo, mas não há um planejamento ágil. Recursos precisam ser adicionados eventualmente, dependendo de onde haja uma crise",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 117,
+        "numero": 2,
+        "questao": "Como um release é planejado?",
+        "diretriz": "Feito de forma ágil, mas executado desarticuladamente e às vezes alguns prazos são perdidos",
+        "pontos": 4,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 118,
+        "numero": 2,
+        "questao": "Como um release é planejado?",
+        "diretriz": "Feito de forma ágil. Monitorado continuamente e atualizado por meio de ferramentas DevOps",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 119,
+        "numero": 3,
+        "questao": "O sistema de gerenciamento da configuração de software (SCM) está integrado com desenvolvimento, teste e implantação?",
+        "diretriz": "Não há integração de nenhum sistema com o sistema de SCM",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 120,
+        "numero": 3,
+        "questao": "O sistema de gerenciamento da configuração de software (SCM) está integrado com desenvolvimento, teste e implantação?",
+        "diretriz": "Apenas Dev IDE está integrado com o sistema de SCM",
+        "pontos": 2,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 121,
+        "numero": 3,
+        "questao": "O sistema de gerenciamento da configuração de software (SCM) está integrado com desenvolvimento, teste e implantação?",
+        "diretriz": "As fases de Produção e Teste não são integradas com o sistema de SCM",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 122,
+        "numero": 3,
+        "questao": "O sistema de gerenciamento da configuração de software (SCM) está integrado com desenvolvimento, teste e implantação?",
+        "diretriz": "O gerenciamento de testes não é integrado com o sistema de SCM",
+        "pontos": 4,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 123,
+        "numero": 3,
+        "questao": "O sistema de gerenciamento da configuração de software (SCM) está integrado com desenvolvimento, teste e implantação?",
+        "diretriz": "O IDE, as fases de Teste, a Produção e o Sistema de Gerenciamento de Testes são integrados com o sistema de SCM",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 124,
+        "numero": 4,
+        "questao": "Com que frequência você mede o débito técnico?",
+        "diretriz": "Nós não medimos",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 125,
+        "numero": 4,
+        "questao": "Com que frequência você mede o débito técnico?",
+        "diretriz": "Em um prazo de calendário (mensalmente, trimestralmente, etc.) não vinculado aos releases",
+        "pontos": 2,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 126,
+        "numero": 4,
+        "questao": "Com que frequência você mede o débito técnico?",
+        "diretriz": "Medimos a cada release de produção",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 127,
+        "numero": 4,
+        "questao": "Com que frequência você mede o débito técnico?",
+        "diretriz": "Medimos a cada build",
+        "pontos": 4,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 128,
+        "numero": 4,
+        "questao": "Com que frequência você mede o débito técnico?",
+        "diretriz": "De forma contínua, a cada check-in",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 129,
+        "numero": 5,
+        "questao": "Como a integração contínua é alcançada? Quanto dela é automatizada?",
+        "diretriz": "O build é manual, sem teste unitário. Não há integração de build e SCM",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 130,
+        "numero": 5,
+        "questao": "Como a integração contínua é alcançada? Quanto dela é automatizada?",
+        "diretriz": "O build não é automatizado e o teste unitário é manual",
+        "pontos": 2,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 131,
+        "numero": 5,
+        "questao": "Como a integração contínua é alcançada? Quanto dela é automatizada?",
+        "diretriz": "O build é automatizado, mas não há teste unitário nem automação",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 132,
+        "numero": 5,
+        "questao": "Como a integração contínua é alcançada? Quanto dela é automatizada?",
+        "diretriz": "A automação de build e a automação de teste unitário são alcançadas, mas o build não é desencadeado de forma automática",
+        "pontos": 4,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 133,
+        "numero": 5,
+        "questao": "Como a integração contínua é alcançada? Quanto dela é automatizada?",
+        "diretriz": "Implementamos, de forma automatizada: integração de código, gerenciamento de build, gerenciamento de defeitos, gerenciamento de configuração e testes unitários",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 134,
+        "numero": 6,
+        "questao": "Como é feita a revisão do código?",
+        "diretriz": "Não há um processo de revisão do código",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 135,
+        "numero": 6,
+        "questao": "Como é feita a revisão do código?",
+        "diretriz": "Há um processo manual de revisão do código, mas não há um monitoramento",
+        "pontos": 2,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 136,
+        "numero": 6,
+        "questao": "Como é feita a revisão do código?",
+        "diretriz": "Há um processo manual de revisão do código e um monitoramento via ferramenta",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 137,
+        "numero": 6,
+        "questao": "Como é feita a revisão do código?",
+        "diretriz": "Há revisões automatizadas de código usando ferramentas de revisão de código, mas sem integração com o gerenciamento de build",
+        "pontos": 4,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 138,
+        "numero": 6,
+        "questao": "Como é feita a revisão do código?",
+        "diretriz": "Há revisões automatizadas de código usando ferramentas de revisão de código, integrado com o processo de gerenciamento de build (SonarQube, por exemplo)",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 139,
+        "numero": 7,
+        "questao": "Vocês fazem testes durante o desenvolvimento? Existe algum tipo de teste unitário incorporado?",
+        "diretriz": "Não há teste unitário em vigor",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 140,
+        "numero": 7,
+        "questao": "Vocês fazem testes durante o desenvolvimento? Existe algum tipo de teste unitário incorporado?",
+        "diretriz": "O teste unitário é manual e a sua quantidade depende da performance de desenvolvedores individuais",
+        "pontos": 2,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 141,
+        "numero": 7,
+        "questao": "Vocês fazem testes durante o desenvolvimento? Existe algum tipo de teste unitário incorporado?",
+        "diretriz": "O teste unitário é manual e a sua cobertura é decidida de acordo com orientação política do cliente",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 142,
+        "numero": 7,
+        "questao": "Vocês fazem testes durante o desenvolvimento? Existe algum tipo de teste unitário incorporado?",
+        "diretriz": "Teste unitário automatizado, com cobertura entre 40 e 50%",
+        "pontos": 4,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 143,
+        "numero": 7,
+        "questao": "Vocês fazem testes durante o desenvolvimento? Existe algum tipo de teste unitário incorporado?",
+        "diretriz": "Teste unitário automatizado, com cobertura entre 80 e 90%",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 144,
+        "numero": 8,
+        "questao": "As equipes de desenvolvimento, operações e suporte se reúnem para discutir a melhoria do processo?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 145,
+        "numero": 8,
+        "questao": "As equipes de desenvolvimento, operações e suporte se reúnem para discutir a melhoria do processo?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 146,
+        "numero": 8,
+        "questao": "As equipes de desenvolvimento, operações e suporte se reúnem para discutir a melhoria do processo?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 147,
+        "numero": 9,
+        "questao": "Vocês trabalham com times dedicados para um projeto ou iniciativa?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 148,
+        "numero": 9,
+        "questao": "Vocês trabalham com times dedicados para um projeto ou iniciativa?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 149,
+        "numero": 9,
+        "questao": "Vocês trabalham com times dedicados para um projeto ou iniciativa?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "colaboração"
+      },
+      {
+        "id": 150,
+        "numero": 10,
+        "questao": "Como o trabalho é distribuído e controlado?",
+        "diretriz": "O trabalho é distribuído e controlado verbalmente",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 151,
+        "numero": 10,
+        "questao": "Como o trabalho é distribuído e controlado?",
+        "diretriz": "O trabalho é distribuído e controlado por e-mails",
+        "pontos": 2,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 152,
+        "numero": 10,
+        "questao": "Como o trabalho é distribuído e controlado?",
+        "diretriz": "O trabalho é distribuído e controlado por meio de planilhas Excel",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 153,
+        "numero": 10,
+        "questao": "Como o trabalho é distribuído e controlado?",
+        "diretriz": "O trabalho é distribuído e controlado por meio de ferramentas de planejamento de projetos",
+        "pontos": 4,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 154,
+        "numero": 10,
+        "questao": "Como o trabalho é distribuído e controlado?",
+        "diretriz": "O trabalho é distribuído e controlado por meio de ferramentas DevOps colaborativas",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 155,
+        "numero": 11,
+        "questao": "Como você monitora os resultados do build? Vocês utilizam notificação automatizada?",
+        "diretriz": "Não há uma maneira automatizada para rastrear o log",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 156,
+        "numero": 11,
+        "questao": "Como você monitora os resultados do build? Vocês utilizam notificação automatizada?",
+        "diretriz": "O log é monitorado manualmente",
+        "pontos": 2,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 157,
+        "numero": 11,
+        "questao": "Como você monitora os resultados do build? Vocês utilizam notificação automatizada?",
+        "diretriz": "O log não é coletado, mas o fracasso ou o sucesso do build é notificado",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 158,
+        "numero": 11,
+        "questao": "Como você monitora os resultados do build? Vocês utilizam notificação automatizada?",
+        "diretriz": "O log é gerado, mas não são enviados relatórios sobre os painéis de controle",
+        "pontos": 4,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 159,
+        "numero": 11,
+        "questao": "Como você monitora os resultados do build? Vocês utilizam notificação automatizada?",
+        "diretriz": "Há uma ferramenta de gerenciamento de build, o time de Dev faz uma monitoração do log de builds, o log é enviado automaticamente, estão disponíveis painéis de controle e relatórios",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 160,
+        "numero": 12,
+        "questao": "Os itens de configuração possuem controle de código fonte?",
+        "diretriz": "Não há um critério definido para os CIs e não é usado controle de versão",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 161,
+        "numero": 12,
+        "questao": "Os itens de configuração possuem controle de código fonte?",
+        "diretriz": "Não há uma identificação clara dos CIs, mas existe um controle de versão dos sistemas",
+        "pontos": 2,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 162,
+        "numero": 12,
+        "questao": "Os itens de configuração possuem controle de código fonte?",
+        "diretriz": "Os scripts de build, implantação e banco de dados não estão sob controle de versão",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 163,
+        "numero": 12,
+        "questao": "Os itens de configuração possuem controle de código fonte?",
+        "diretriz": "Os requisitos não são versionados, mas os demais artefatos são",
+        "pontos": 4,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 164,
+        "numero": 12,
+        "questao": "Os itens de configuração possuem controle de código fonte?",
+        "diretriz": "Todos os artefatos do projeto estão sob controle de versão",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 165,
+        "numero": 13,
+        "questao": "Como as mudanças são gerenciadas durante o ciclo de desenvolvimento?",
+        "diretriz": "Mudanças gerenciadas por e-mail ou verbalmente",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 166,
+        "numero": 13,
+        "questao": "Como as mudanças são gerenciadas durante o ciclo de desenvolvimento?",
+        "diretriz": "Mudanças gerenciadas e monitoradas por meio de um processo manual de gerenciamento de requisitos usando planilhas Excel separadas, de forma não integrada com o processo de gerenciamento de requisitos",
+        "pontos": 2,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 167,
+        "numero": 13,
+        "questao": "Como as mudanças são gerenciadas durante o ciclo de desenvolvimento?",
+        "diretriz": "Mudanças gerenciadas e monitoradas por meio de um processo manual de gerenciamento de requisitos",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 168,
+        "numero": 13,
+        "questao": "Como as mudanças são gerenciadas durante o ciclo de desenvolvimento?",
+        "diretriz": "Mudanças gerenciadas por meio de uma ferramenta de gerenciamento de requisitos, mas sem integração com ferramentas de ciclo de vida de colaborativo",
+        "pontos": 4,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 169,
+        "numero": 13,
+        "questao": "Como as mudanças são gerenciadas durante o ciclo de desenvolvimento?",
+        "diretriz": "Mudanças gerenciadas por meio de ferramenta de gerenciamento de requisitos, integrada com ferramentas de ciclo de vida colaborativo (CLM)",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 170,
+        "numero": 14,
+        "questao": "Existem painéis de controle e relatórios apresentados para monitorar o build, a revisão de código e os resultados dos testes unitários?",
+        "diretriz": "É usada apenas a ferramenta SCM. Build e revisão de código são manuais, portanto não há painéis de controle",
+        "pontos": 1,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 171,
+        "numero": 14,
+        "questao": "Existem painéis de controle e relatórios apresentados para monitorar o build, a revisão de código e os resultados dos testes unitários?",
+        "diretriz": "Apenas os logs de resultados de build são mantidos, mas não sob a forma de relatórios ou painéis de controle",
+        "pontos": 2,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 172,
+        "numero": 14,
+        "questao": "Existem painéis de controle e relatórios apresentados para monitorar o build, a revisão de código e os resultados dos testes unitários?",
+        "diretriz": "É usada uma planilha Excel, que é atualizada manualmente",
+        "pontos": 3,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 173,
+        "numero": 14,
+        "questao": "Existem painéis de controle e relatórios apresentados para monitorar o build, a revisão de código e os resultados dos testes unitários?",
+        "diretriz": "Apenas a funcionalidade da ferramenta de build é usada para mostrar painéis de controle e relatórios, mas não há um rastreamento completo",
+        "pontos": 4,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 174,
+        "numero": 14,
+        "questao": "Existem painéis de controle e relatórios apresentados para monitorar o build, a revisão de código e os resultados dos testes unitários?",
+        "diretriz": "São usadas ferramentas DevOps e painéis de controle e relatórios são exibidos para build, revisão de código e testes unitários",
+        "pontos": 5,
+        "grupo": "integração continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 175,
+        "numero": 1,
+        "questao": "A configuração do seu ambiente de testes é parecida com a do seu ambiente de produção?",
+        "diretriz": "Os ambientes de teste não são nem parecidos com o ambiente de produção",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 176,
+        "numero": 1,
+        "questao": "A configuração do seu ambiente de testes é parecida com a do seu ambiente de produção?",
+        "diretriz": "Os ambientes de testes possuem configuração similar, mas não idêntica ao ambiente de produção",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 177,
+        "numero": 1,
+        "questao": "A configuração do seu ambiente de testes é parecida com a do seu ambiente de produção?",
+        "diretriz": "Nem todos os ambientes de teste são idênticos aos de produção. Alguns são idênticos e outros são similares",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 178,
+        "numero": 1,
+        "questao": "A configuração do seu ambiente de testes é parecida com a do seu ambiente de produção?",
+        "diretriz": "Os ambientes de teste são parcialmente semelhantes ao ambiente de produção: a configuração de software é idêntica, mas a de hardware não",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 179,
+        "numero": 1,
+        "questao": "A configuração do seu ambiente de testes é parecida com a do seu ambiente de produção?",
+        "diretriz": "Os ambientes de teste são idênticos aos ambientes de produção, incluindo a configuração de hardware e de software",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 180,
+        "numero": 2,
+        "questao": "O time de desenvolvimento compartilha os casos de testes unitários para cada release de teste?",
+        "diretriz": "Não são rodados testes unitários e não existem casos de teste unitário",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 181,
+        "numero": 2,
+        "questao": "O time de desenvolvimento compartilha os casos de testes unitários para cada release de teste?",
+        "diretriz": "Testes unitários são rodados parcialmente, quando solicitado, e não há casos formais de teste unitário",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 182,
+        "numero": 2,
+        "questao": "O time de desenvolvimento compartilha os casos de testes unitários para cada release de teste?",
+        "diretriz": "Os casos de teste unitários são executados por desenvolvedores individuais e não há um relatório consolidado disponível",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 183,
+        "numero": 2,
+        "questao": "O time de desenvolvimento compartilha os casos de testes unitários para cada release de teste?",
+        "diretriz": "Os casos de teste unitário são executados manualmente pelos desenvolvedores individuais e um relatório consolidado é compartilhado antes de cada release",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 184,
+        "numero": 2,
+        "questao": "O time de desenvolvimento compartilha os casos de testes unitários para cada release de teste?",
+        "diretriz": "Os casos de teste unitário são automatizados e um painel de controle da cobertura do código está disponível para todas as releases",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 185,
+        "numero": 3,
+        "questao": "Em que fase do ciclo de vida do software são criados o plano de teste, os casos de teste e os scripts de teste?",
+        "diretriz": "Não há documentos de teste",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 186,
+        "numero": 3,
+        "questao": "Em que fase do ciclo de vida do software são criados o plano de teste, os casos de teste e os scripts de teste?",
+        "diretriz": "Pouco antes do início dos testes",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 187,
+        "numero": 3,
+        "questao": "Em que fase do ciclo de vida do software são criados o plano de teste, os casos de teste e os scripts de teste?",
+        "diretriz": "Em paralelo com o desenvolvimento",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 188,
+        "numero": 3,
+        "questao": "Em que fase do ciclo de vida do software são criados o plano de teste, os casos de teste e os scripts de teste?",
+        "diretriz": "Antes do desenvolvimento",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 189,
+        "numero": 3,
+        "questao": "Em que fase do ciclo de vida do software são criados o plano de teste, os casos de teste e os scripts de teste?",
+        "diretriz": "Os casos de teste, o plano de teste e os scripts de teste são escritos durante a fase de design de alto nível (HLD)",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 190,
+        "numero": 4,
+        "questao": "Onde são armazenados o plano de teste, os cases de teste e os scripts de teste?",
+        "diretriz": "Não há documentos de teste",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 191,
+        "numero": 4,
+        "questao": "Onde são armazenados o plano de teste, os cases de teste e os scripts de teste?",
+        "diretriz": "São armazenados em um sistema de arquivo local ou em boxes de teste",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 192,
+        "numero": 4,
+        "questao": "Onde são armazenados o plano de teste, os cases de teste e os scripts de teste?",
+        "diretriz": "Em repositórios, mas sem controle de versão",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 193,
+        "numero": 4,
+        "questao": "Onde são armazenados o plano de teste, os cases de teste e os scripts de teste?",
+        "diretriz": "Em ferramentas SCM com controle de versão",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 194,
+        "numero": 4,
+        "questao": "Onde são armazenados o plano de teste, os cases de teste e os scripts de teste?",
+        "diretriz": "São usadas ferramentas DevOps para gerenciamento de testes, como RQM",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 195,
+        "numero": 5,
+        "questao": "Com que frequência você testa as funcionalidades?",
+        "diretriz": "Todos os requisitos são testados no final do release, de forma waterfall",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 196,
+        "numero": 5,
+        "questao": "Com que frequência você testa as funcionalidades?",
+        "diretriz": "Os testes são feitos conforme instruções da equipe de desenvolvimento",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 197,
+        "numero": 5,
+        "questao": "Com que frequência você testa as funcionalidades?",
+        "diretriz": "Os testes são feitos por releases iterativos",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 198,
+        "numero": 5,
+        "questao": "Com que frequência você testa as funcionalidades?",
+        "diretriz": "Testes contínuos, de forma ágil",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 199,
+        "numero": 6,
+        "questao": "As equipes de teste se reúnem com Operações e Desenvolvimento para discutir métodos e estratégias?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 200,
+        "numero": 6,
+        "questao": "As equipes de teste se reúnem com Operações e Desenvolvimento para discutir métodos e estratégias?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 201,
+        "numero": 6,
+        "questao": "As equipes de teste se reúnem com Operações e Desenvolvimento para discutir métodos e estratégias?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 202,
+        "numero": 7,
+        "questao": "Os testes são automatizados ou manuais? Se automatizados, quais utilizadas?",
+        "diretriz": "Os testes são manuais e os defeitos são registrados em planilhas",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 203,
+        "numero": 7,
+        "questao": "Os testes são automatizados ou manuais? Se automatizados, quais utilizadas?",
+        "diretriz": "Os testes são manuais e os resultados registrados no sistema de monitoração de defeitos e / ou em planilhas",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 204,
+        "numero": 7,
+        "questao": "Os testes são automatizados ou manuais? Se automatizados, quais utilizadas?",
+        "diretriz": "Os testes são manuais, mas usando ferramenta de gerenciamento de teste, como RQM",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 205,
+        "numero": 7,
+        "questao": "Os testes são automatizados ou manuais? Se automatizados, quais utilizadas?",
+        "diretriz": "Os testes funcionais são parcialmente automatizados, pois nem tudo é coberto",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 206,
+        "numero": 7,
+        "questao": "Os testes são automatizados ou manuais? Se automatizados, quais utilizadas?",
+        "diretriz": "Os testes e o mecanismo de feedback são totalmente automatizados e completamente integrados com as ferramentas de gerenciamento do ciclo de vida colaborativo (CLM)",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 207,
+        "numero": 8,
+        "questao": "Quais são os vários ambientes de teste?",
+        "diretriz": "Testes nas boxes dos desenvolvedores",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 208,
+        "numero": 8,
+        "questao": "Quais são os vários ambientes de teste?",
+        "diretriz": "Ambientes SIT e UAT na mesma box",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 209,
+        "numero": 8,
+        "questao": "Quais são os vários ambientes de teste?",
+        "diretriz": "Ambientes SIT e UAT, mas sem pré-produção",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 210,
+        "numero": 8,
+        "questao": "Quais são os vários ambientes de teste?",
+        "diretriz": "Ambientes SIT, UAT e pré-produção (não virtualizados)",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 211,
+        "numero": 8,
+        "questao": "Quais são os vários ambientes de teste?",
+        "diretriz": "Ambientes SIT, UAT e pré-produção virtualizados",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 212,
+        "numero": 9,
+        "questao": "Qual o percentual de testes automatizados que a sua equipe utiliza nas fases do processo de implantação?",
+        "diretriz": "Até 20%",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 213,
+        "numero": 9,
+        "questao": "Qual o percentual de testes automatizados que a sua equipe utiliza nas fases do processo de implantação?",
+        "diretriz": "Entre 21% e 40%",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 214,
+        "numero": 9,
+        "questao": "Qual o percentual de testes automatizados que a sua equipe utiliza nas fases do processo de implantação?",
+        "diretriz": "Entre 41% e 60%",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 215,
+        "numero": 9,
+        "questao": "Qual o percentual de testes automatizados que a sua equipe utiliza nas fases do processo de implantação?",
+        "diretriz": "Entre 61% e 80%",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 216,
+        "numero": 9,
+        "questao": "Qual o percentual de testes automatizados que a sua equipe utiliza nas fases do processo de implantação?",
+        "diretriz": "Acima de 80%",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 217,
+        "numero": 10,
+        "questao": "Quando os requisitos de teste não-funcional são obtidos e quando esses testes são realizados?",
+        "diretriz": "Feito apenas com base na necessidade",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 218,
+        "numero": 10,
+        "questao": "Quando os requisitos de teste não-funcional são obtidos e quando esses testes são realizados?",
+        "diretriz": "Os requisitos são coletados com base na necessidade, os testes são realizados antes da implantação e não são totalmente automatizados",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 219,
+        "numero": 10,
+        "questao": "Quando os requisitos de teste não-funcional são obtidos e quando esses testes são realizados?",
+        "diretriz": "Os requisitos são coletados apenas durante os testes, que são realizados ao final dos testes funcionais e antes da implantação e são parcialmente automatizados.",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 220,
+        "numero": 10,
+        "questao": "Quando os requisitos de teste não-funcional são obtidos e quando esses testes são realizados?",
+        "diretriz": "Os requisitos são coletados bem cedo na fase de Requisitos/Design e modificados durante o ciclo de vida do desenvolvimento. Os testes são realizados após o teste unitário e em cada ambiente de teste e não são totalmente automatizados",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 221,
+        "numero": 10,
+        "questao": "Quando os requisitos de teste não-funcional são obtidos e quando esses testes são realizados?",
+        "diretriz": "Os requisitos são coletados bem cedo na fase de Requisito/Design e modificados durante o ciclo de vida do desenvolvimento. Os testes são realizados após o teste unitário e em cada ambiente de teste e são totalmente automatizados",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 222,
+        "numero": 11,
+        "questao": "Quanto tempo demora para resolver uma compilação interrompida (broken build) em um ambiente de pré-produção?",
+        "diretriz": "Demora alguns dias",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 223,
+        "numero": 11,
+        "questao": "Quanto tempo demora para resolver uma compilação interrompida (broken build) em um ambiente de pré-produção?",
+        "diretriz": "Demora pouco mais que um dia",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 224,
+        "numero": 11,
+        "questao": "Quanto tempo demora para resolver uma compilação interrompida (broken build) em um ambiente de pré-produção?",
+        "diretriz": "Normalmente resolvemos no mesmo dia",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 225,
+        "numero": 11,
+        "questao": "Quanto tempo demora para resolver uma compilação interrompida (broken build) em um ambiente de pré-produção?",
+        "diretriz": "Conseguimos resolver em cerca de uma hora",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 226,
+        "numero": 11,
+        "questao": "Quanto tempo demora para resolver uma compilação interrompida (broken build) em um ambiente de pré-produção?",
+        "diretriz": "A implantação de builds quebrados é impedida por check-in fechado (gated), política de pull-request ou rollback automático imediato",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 227,
+        "numero": 12,
+        "questao": "Como o início da execução do teste, em várias fases, é comunicado e monitorado?",
+        "diretriz": "Comunicação verbal em reuniões",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 228,
+        "numero": 12,
+        "questao": "Como o início da execução do teste, em várias fases, é comunicado e monitorado?",
+        "diretriz": "Comunicação manual através de e-mail",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 229,
+        "numero": 12,
+        "questao": "Como o início da execução do teste, em várias fases, é comunicado e monitorado?",
+        "diretriz": "Acionamento de e-mail automático, a partir da ferramenta de build, mas sem monitoração",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 230,
+        "numero": 12,
+        "questao": "Como o início da execução do teste, em várias fases, é comunicado e monitorado?",
+        "diretriz": "Comunicação automatizada a partir das ferramentas, com uma lista de distribuição, mas sem painel de controle e sem relatório de monitoração",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 231,
+        "numero": 12,
+        "questao": "Como o início da execução do teste, em várias fases, é comunicado e monitorado?",
+        "diretriz": "Comunicação automatizada com processo de não envolvimento e monitoração do status de teste",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "automação"
+      },
+      {
+        "id": 232,
+        "numero": 13,
+        "questao": "Como você monitora quais builds são implantados no ambiente de teste?",
+        "diretriz": "Não existe um processo de gerenciamento de release",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 233,
+        "numero": 13,
+        "questao": "Como você monitora quais builds são implantados no ambiente de teste?",
+        "diretriz": "As implantações dos builds são comunicadas por e-mail",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 234,
+        "numero": 13,
+        "questao": "Como você monitora quais builds são implantados no ambiente de teste?",
+        "diretriz": "Builds e ambientes são monitorados via planilhas e/ou através de e-mail",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 235,
+        "numero": 13,
+        "questao": "Como você monitora quais builds são implantados no ambiente de teste?",
+        "diretriz": "Builds e ambientes são controlados usando planilhas, com controle de versão e mantidas no repositório de SCM",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 236,
+        "numero": 13,
+        "questao": "Como você monitora quais builds são implantados no ambiente de teste?",
+        "diretriz": "O processo de gerenciamento de release controla as implantações automaticamente. Os builds implantados podem ser acompanhados no painel de controle",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 237,
+        "numero": 14,
+        "questao": "Qual ferramenta é usada para gerenciamento de defeitos? Como os defeitos são capturados e monitorados até o seu encerramento?",
+        "diretriz": "Não utiliza ferramenta nem planilha e os defeitos são comunicados por e-mail",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 238,
+        "numero": 14,
+        "questao": "Qual ferramenta é usada para gerenciamento de defeitos? Como os defeitos são capturados e monitorados até o seu encerramento?",
+        "diretriz": "Os defeitos são identificados individualmente pelos testadores em planilhas",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 239,
+        "numero": 14,
+        "questao": "Qual ferramenta é usada para gerenciamento de defeitos? Como os defeitos são capturados e monitorados até o seu encerramento?",
+        "diretriz": "Os defeitos são identificados em planilhas, mas não são geradas métricas",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 240,
+        "numero": 14,
+        "questao": "Qual ferramenta é usada para gerenciamento de defeitos? Como os defeitos são capturados e monitorados até o seu encerramento?",
+        "diretriz": "Os defeitos são capturados utilizando ferramentas, mas sem métricas automatizadas, pois são geradas manualmente, usando planilhas",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 241,
+        "numero": 14,
+        "questao": "Qual ferramenta é usada para gerenciamento de defeitos? Como os defeitos são capturados e monitorados até o seu encerramento?",
+        "diretriz": "Os defeitos são capturados utilizando ferramentas, via processo automatizado, e as alterações são movidas para a fase seguinte, quando todos os defeitos são fechados",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 242,
+        "numero": 15,
+        "questao": "A sua equipe consegue simular as solicitações de serviços da aplicação para testes de carga?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 243,
+        "numero": 15,
+        "questao": "A sua equipe consegue simular as solicitações de serviços da aplicação para testes de carga?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 244,
+        "numero": 15,
+        "questao": "A sua equipe consegue simular as solicitações de serviços da aplicação para testes de carga?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 245,
+        "numero": 16,
+        "questao": "Como você identifica os requisitos para os casos de teste?",
+        "diretriz": "Não há gerenciamento de requisitos nem gerenciamento de testes",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 246,
+        "numero": 16,
+        "questao": "Como você identifica os requisitos para os casos de teste?",
+        "diretriz": "Há algum gerenciamento de requisitos e/ou testes, mas não há identificação",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 247,
+        "numero": 16,
+        "questao": "Como você identifica os requisitos para os casos de teste?",
+        "diretriz": "Identificação via planilhas, mas sem painel de controle ou métricas",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 248,
+        "numero": 16,
+        "questao": "Como você identifica os requisitos para os casos de teste?",
+        "diretriz": "Identificação usando planilhas com métricas e painel de controle",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 249,
+        "numero": 16,
+        "questao": "Como você identifica os requisitos para os casos de teste?",
+        "diretriz": "Identificação usando uma ferramenta DevOps",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 250,
+        "numero": 17,
+        "questao": "Quem fornece / cria as bases de dados de teste e o quão próximo elas estão do conjunto de dados de produção?",
+        "diretriz": "Os testes são feitos caso a caso e a base de dados de teste é criada pelo testador, durante o teste",
+        "pontos": 1,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 251,
+        "numero": 17,
+        "questao": "Quem fornece / cria as bases de dados de teste e o quão próximo elas estão do conjunto de dados de produção?",
+        "diretriz": "O time de testes cria a sua própria base de dados, que não está em linha com os dados de produção",
+        "pontos": 2,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 252,
+        "numero": 17,
+        "questao": "Quem fornece / cria as bases de dados de teste e o quão próximo elas estão do conjunto de dados de produção?",
+        "diretriz": "O time de testes cria a sua própria base de dados, que está em linha com os dados de produção",
+        "pontos": 3,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 253,
+        "numero": 17,
+        "questao": "Quem fornece / cria as bases de dados de teste e o quão próximo elas estão do conjunto de dados de produção?",
+        "diretriz": "O time de desenvolvimento fornece a base de dados de teste, mas não é similar à de produção",
+        "pontos": 4,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 254,
+        "numero": 17,
+        "questao": "Quem fornece / cria as bases de dados de teste e o quão próximo elas estão do conjunto de dados de produção?",
+        "diretriz": "O time de desenvolvimento cria e fornece as bases de dados de teste, que são similares às de produção",
+        "pontos": 5,
+        "grupo": "testes continuos",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 255,
+        "numero": 1,
+        "questao": "Qual é a sua política quanto ao uso de nuvem pública?",
+        "diretriz": "Não permitimos o uso de nuvem pública",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 256,
+        "numero": 1,
+        "questao": "Qual é a sua política quanto ao uso de nuvem pública?",
+        "diretriz": "As equipes são livres de decidir por conta própria",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 257,
+        "numero": 1,
+        "questao": "Qual é a sua política quanto ao uso de nuvem pública?",
+        "diretriz": "Escolhemos um fornecedor que nos dê segurança e qualidade de serviço; permitimos usar a nuvem, desde que os dados não sejam postos em risco",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 258,
+        "numero": 2,
+        "questao": "Vocês utilizam serviços de nuvem (PaaS ou SaaS)?",
+        "diretriz": "Não usamos nuvem",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 259,
+        "numero": 2,
+        "questao": "Vocês utilizam serviços de nuvem (PaaS ou SaaS)?",
+        "diretriz": "Sim, usamos como IaaS",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 260,
+        "numero": 2,
+        "questao": "Vocês utilizam serviços de nuvem (PaaS ou SaaS)?",
+        "diretriz": "Sim, usamos como PaaS",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 261,
+        "numero": 2,
+        "questao": "Vocês utilizam serviços de nuvem (PaaS ou SaaS)?",
+        "diretriz": "Usamos alguns SaaS",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 262,
+        "numero": 3,
+        "questao": "Quem toma as decisões sobre como e onde as aplicações serão hospedadas?",
+        "diretriz": "Temos fornecedores preferenciais e políticas em torno das definições de rede, VMs e opções de IaaS ou PaaS",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 263,
+        "numero": 3,
+        "questao": "Quem toma as decisões sobre como e onde as aplicações serão hospedadas?",
+        "diretriz": "Todos os projetos são hospedados no nosso datacenter (ou colocation)",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 264,
+        "numero": 3,
+        "questao": "Quem toma as decisões sobre como e onde as aplicações serão hospedadas?",
+        "diretriz": "Todas as decisões sobre hospedagem precisam de uma revisão de segurança e aprovação para cada aplicação",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 265,
+        "numero": 3,
+        "questao": "Quem toma as decisões sobre como e onde as aplicações serão hospedadas?",
+        "diretriz": "Cada projeto ou unidade de negócio pode decidir por si mesmo",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 266,
+        "numero": 4,
+        "questao": "Qual é a sua política em relação ao Software as a Service (SaaS)?",
+        "diretriz": "Não usamos SaaS",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 267,
+        "numero": 4,
+        "questao": "Qual é a sua política em relação ao Software as a Service (SaaS)?",
+        "diretriz": "Raramente usamos SaaS e não temos uma política definida quanto ao seu uso",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 268,
+        "numero": 4,
+        "questao": "Qual é a sua política em relação ao Software as a Service (SaaS)?",
+        "diretriz": "SaaS precisa passar por análise gerencial e aprovação, caso a caso",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 269,
+        "numero": 4,
+        "questao": "Qual é a sua política em relação ao Software as a Service (SaaS)?",
+        "diretriz": "Nós temos uma lista de fornecedores preferenciais de SaaS",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 270,
+        "numero": 4,
+        "questao": "Qual é a sua política em relação ao Software as a Service (SaaS)?",
+        "diretriz": "Nós encorajamos SaaS, onde ele se adapte às necessidades de negócios e esteja em conformidade com as diretrizes da empresa",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 271,
+        "numero": 5,
+        "questao": "As suas equipes estão cientes da dependências de terceiros para garantir uma prestação de serviços confiável?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 272,
+        "numero": 5,
+        "questao": "As suas equipes estão cientes da dependências de terceiros para garantir uma prestação de serviços confiável?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 273,
+        "numero": 5,
+        "questao": "As suas equipes estão cientes da dependências de terceiros para garantir uma prestação de serviços confiável?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 274,
+        "numero": 6,
+        "questao": "Vocês fazem implantação de software em máquinas virtuais para ambientes diferentes (testes, desenvolvimento) e com controle de versão dos ambientes?",
+        "diretriz": "Não",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 275,
+        "numero": 6,
+        "questao": "Vocês fazem implantação de software em máquinas virtuais para ambientes diferentes (testes, desenvolvimento) e com controle de versão dos ambientes?",
+        "diretriz": "Sim, mas os ambientes criados são geralmente diferentes do ambiente de produção",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 276,
+        "numero": 6,
+        "questao": "Vocês fazem implantação de software em máquinas virtuais para ambientes diferentes (testes, desenvolvimento) e com controle de versão dos ambientes?",
+        "diretriz": "Sim, mas é preciso intervenção da equipe de operações para que possa acontecer uma implantação",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 277,
+        "numero": 6,
+        "questao": "Vocês fazem implantação de software em máquinas virtuais para ambientes diferentes (testes, desenvolvimento) e com controle de versão dos ambientes?",
+        "diretriz": "Os ambientes são criados de forma flexível, mas as versões do software nem sempre são controladas e nem sempre simulam o ambiente real de produção",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 278,
+        "numero": 6,
+        "questao": "Vocês fazem implantação de software em máquinas virtuais para ambientes diferentes (testes, desenvolvimento) e com controle de versão dos ambientes?",
+        "diretriz": "Os ambientes são criados de forma flexível e controlada, sendo as versões de software iguais às de produção",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 279,
+        "numero": 7,
+        "questao": "Qual é o nível de automação do seu processo de release e implementação?",
+        "diretriz": "O provisionamento de novos releases é feito de forma manual",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 280,
+        "numero": 7,
+        "questao": "Qual é o nível de automação do seu processo de release e implementação?",
+        "diretriz": "Processo de implantação automatizado, mas não o de release",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 281,
+        "numero": 7,
+        "questao": "Qual é o nível de automação do seu processo de release e implementação?",
+        "diretriz": "Processo de implantação e release totalmente automatizado",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 282,
+        "numero": 7,
+        "questao": "Qual é o nível de automação do seu processo de release e implementação?",
+        "diretriz": "Implantação de novos releases por meio de scripts",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 283,
+        "numero": 8,
+        "questao": "Qual é o nível de automação do seu processo de testes?",
+        "diretriz": "Os testes unitários de componentes individuais são bastante automatizados por desenvolvedores, mas os testes no nível de UI são feitos manualmente",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 284,
+        "numero": 8,
+        "questao": "Qual é o nível de automação do seu processo de testes?",
+        "diretriz": "Os processos de negócio são testados de forma automatizada entre aplicativos e interfaces, de ponta a ponta",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 285,
+        "numero": 8,
+        "questao": "Qual é o nível de automação do seu processo de testes?",
+        "diretriz": "Os testes de aplicação são amplamente automatizados",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 286,
+        "numero": 8,
+        "questao": "Qual é o nível de automação do seu processo de testes?",
+        "diretriz": "Os testes são automatizados no nível de UI para aplicações, com cobertura média",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 287,
+        "numero": 8,
+        "questao": "Qual é o nível de automação do seu processo de testes?",
+        "diretriz": "Todos os testes são executados manualmente. O próprio processo de teste é feito caso a caso e não é reproduzível",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 288,
+        "numero": 9,
+        "questao": "Qual é o nível de automação do seu processo de build?",
+        "diretriz": "Os builds noturnos são automatizados, mas não validados. O empacotamento para a implantação de teste e feito de forma automatizada.",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 289,
+        "numero": 9,
+        "questao": "Qual é o nível de automação do seu processo de build?",
+        "diretriz": "Os builds são geralmente empacotados manualmente e validados. O empacotamento é feito manualmente.",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 290,
+        "numero": 9,
+        "questao": "Qual é o nível de automação do seu processo de build?",
+        "diretriz": "Os builds são totalmente automatizados, com testes unitários, análise de código estático e empacotamento automatizados. As correções também são automatizadas.",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 291,
+        "numero": 9,
+        "questao": "Qual é o nível de automação do seu processo de build?",
+        "diretriz": "Os builds são totalmente automatizados, com testes unitários, análise de código estático e empacotamento automatizados",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 292,
+        "numero": 9,
+        "questao": "Qual é o nível de automação do seu processo de build?",
+        "diretriz": "Os builds são totalmente automatizados, mas a validação automática é limitada",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 293,
+        "numero": 10,
+        "questao": "Qual é o nível de automação do seu processo de provisionamento do ambiente?",
+        "diretriz": "O provisionamento da infraestrutura básica, do sistema operacional e do middleware é feito de forma automatizada, mas não como um único processo orquestrado",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 294,
+        "numero": 10,
+        "questao": "Qual é o nível de automação do seu processo de provisionamento do ambiente?",
+        "diretriz": "O processo de provisionamento do ambiente é totalmente automatizado e orquestrado via ferramenta DevOps",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 295,
+        "numero": 10,
+        "questao": "Qual é o nível de automação do seu processo de provisionamento do ambiente?",
+        "diretriz": "Não é automatizado",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 296,
+        "numero": 10,
+        "questao": "Qual é o nível de automação do seu processo de provisionamento do ambiente?",
+        "diretriz": "O provisionamento de uma VM é feito por meio de scripts, mas o encadeamentos das tarefas exige coordenação manual",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 297,
+        "numero": 10,
+        "questao": "Qual é o nível de automação do seu processo de provisionamento do ambiente?",
+        "diretriz": "O provisionamento da infraestrutura básica e do sistema operacional é feito de forma automatizada, mas a instalação do middleware e a configuração da aplicação exigem etapas manuais separadas",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 298,
+        "numero": 11,
+        "questao": "Qual é o tempo necessário para disponibilizar o ambiente?",
+        "diretriz": "Ambiente virtualizado e cerca de 8 horas",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 299,
+        "numero": 11,
+        "questao": "Qual é o tempo necessário para disponibilizar o ambiente?",
+        "diretriz": "Ambiente em servidores físicos, por isso pode levar cerca de 4 a 6 semanas",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 300,
+        "numero": 11,
+        "questao": "Qual é o tempo necessário para disponibilizar o ambiente?",
+        "diretriz": "Ambiente em cloud e cerca de 2 a 4 horas",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 301,
+        "numero": 11,
+        "questao": "Qual é o tempo necessário para disponibilizar o ambiente?",
+        "diretriz": "Ambiente virtualizado e cerca de 4 a 6 horas",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 302,
+        "numero": 11,
+        "questao": "Qual é o tempo necessário para disponibilizar o ambiente?",
+        "diretriz": "Ambiente virtualizado (VM), mas demora cerca de 24 horas",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 303,
+        "numero": 12,
+        "questao": "Como você especifica os ambientes para desenvolvimento, teste, homologação e produção?",
+        "diretriz": "PaaS manuseia as imagens de produção, de modo que nós não precisamos controlar configurações individuais",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 304,
+        "numero": 12,
+        "questao": "Como você especifica os ambientes para desenvolvimento, teste, homologação e produção?",
+        "diretriz": "Usamos infraestrutura como código",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 305,
+        "numero": 12,
+        "questao": "Como você especifica os ambientes para desenvolvimento, teste, homologação e produção?",
+        "diretriz": "Máquinas físicas individuais dedicadas",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 306,
+        "numero": 12,
+        "questao": "Como você especifica os ambientes para desenvolvimento, teste, homologação e produção?",
+        "diretriz": "Máquinas virtuais individuais dedicadas",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 307,
+        "numero": 12,
+        "questao": "Como você especifica os ambientes para desenvolvimento, teste, homologação e produção?",
+        "diretriz": "Laboratórios dedicados com ambientes virtualizados completos, incluindo papéis (roles) e rede (network)",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "automação"
+      },
+      {
+        "id": 308,
+        "numero": 13,
+        "questao": "Durante o planejamento dos releases, a disponibilidade do ambiente precisa ser levada em consideração?",
+        "diretriz": "Este problema é gerenciado por meio de uma boa coordenação entre Dev e Ops",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 309,
+        "numero": 13,
+        "questao": "Durante o planejamento dos releases, a disponibilidade do ambiente precisa ser levada em consideração?",
+        "diretriz": "Sim, o planejamento de release é bastante afetado pela disponibilidade do ambiente",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 310,
+        "numero": 13,
+        "questao": "Durante o planejamento dos releases, a disponibilidade do ambiente precisa ser levada em consideração?",
+        "diretriz": "Os ambientes são baseados em nuvem e são disponibilizados sob demanda, portanto o planejamento de release não precisa levar em consideração a disponibilidade do ambiente",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 311,
+        "numero": 13,
+        "questao": "Durante o planejamento dos releases, a disponibilidade do ambiente precisa ser levada em consideração?",
+        "diretriz": "As VMs são virtualizadas, portanto o planejamento de release é pouco afetado pela disponibilidade do ambiente",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 312,
+        "numero": 13,
+        "questao": "Durante o planejamento dos releases, a disponibilidade do ambiente precisa ser levada em consideração?",
+        "diretriz": "Sim, o planejamento de release pode ser afetado pela disponibilidade do ambiente",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 313,
+        "numero": 14,
+        "questao": "Quais dados são coletados de aplicativos em execução em produção? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Utilização com relação à funcionalidade",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 314,
+        "numero": 14,
+        "questao": "Quais dados são coletados de aplicativos em execução em produção? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Não coletamos nenhum dos dados acima citados",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 315,
+        "numero": 14,
+        "questao": "Quais dados são coletados de aplicativos em execução em produção? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Performance",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 316,
+        "numero": 14,
+        "questao": "Quais dados são coletados de aplicativos em execução em produção? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Disponibilidade",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 317,
+        "numero": 14,
+        "questao": "Quais dados são coletados de aplicativos em execução em produção? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Teste A/B",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 318,
+        "numero": 15,
+        "questao": "As suas equipes são capazes de fornecer um provisionamento self-service e sob demanda para todos os recursos?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 319,
+        "numero": 15,
+        "questao": "As suas equipes são capazes de fornecer um provisionamento self-service e sob demanda para todos os recursos?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 320,
+        "numero": 15,
+        "questao": "As suas equipes são capazes de fornecer um provisionamento self-service e sob demanda para todos os recursos?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 321,
+        "numero": 16,
+        "questao": "Como você mantém iguais os ambientes de teste e de produção?",
+        "diretriz": "Ferramentas DevOps são usadas para preparação de dados e tanto o ambiente quanto os dados de teste são exatamente iguais aos de produção",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 322,
+        "numero": 16,
+        "questao": "Como você mantém iguais os ambientes de teste e de produção?",
+        "diretriz": "Os bancos de dados são copiados antes de cada execução de teste, mas possuem limitação de tamanho.",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 323,
+        "numero": 16,
+        "questao": "Como você mantém iguais os ambientes de teste e de produção?",
+        "diretriz": "Bancos de dados são sincronizados usando scripts",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 324,
+        "numero": 16,
+        "questao": "Como você mantém iguais os ambientes de teste e de produção?",
+        "diretriz": "Os ambientes são os mesmos, exceto bancos de dados, que são sincronizados de tempos em tempos",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 325,
+        "numero": 16,
+        "questao": "Como você mantém iguais os ambientes de teste e de produção?",
+        "diretriz": "Não há uma estratégia predefinida. Os ambientes não são mantidos iguais.",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 326,
+        "numero": 17,
+        "questao": "Como os problemas na produção são informados à equipe de desenvolvimento? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Por meio de ferramentas de acompanhamento de problemas, disponível para todas as equipes em tempo real",
+        "pontos": 5,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 327,
+        "numero": 17,
+        "questao": "Como os problemas na produção são informados à equipe de desenvolvimento? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "A instrumentação gera alertas automatizados para todas as equipes afetadas",
+        "pontos": 4,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 328,
+        "numero": 17,
+        "questao": "Como os problemas na produção são informados à equipe de desenvolvimento? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Por meio de ferramentas de service desk, relatados separadamente para a equipe de Desenvolvimento",
+        "pontos": 3,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 329,
+        "numero": 17,
+        "questao": "Como os problemas na produção são informados à equipe de desenvolvimento? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Por solicitações/reclamações dos usuários finais (via telefone, e-mail, help desk, gerentes de conta, mídia social, etc.)",
+        "pontos": 2,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 330,
+        "numero": 17,
+        "questao": "Como os problemas na produção são informados à equipe de desenvolvimento? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Nenhuma das acima",
+        "pontos": 1,
+        "grupo": "infraestrutura como código",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 331,
+        "numero": 1,
+        "questao": "Como a implantação é feita atualmente?",
+        "diretriz": "Implantação manual",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 332,
+        "numero": 1,
+        "questao": "Como a implantação é feita atualmente?",
+        "diretriz": "Implantação semiautomatizada, usando procedimentos manuais e scripts",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 333,
+        "numero": 1,
+        "questao": "Como a implantação é feita atualmente?",
+        "diretriz": "Implantação baseada em scripts, mas sem uma ferramenta de implantação de build",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 334,
+        "numero": 1,
+        "questao": "Como a implantação é feita atualmente?",
+        "diretriz": "Implantação usando ferramentas de build, mas ainda baseada em scripts",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 335,
+        "numero": 1,
+        "questao": "Como a implantação é feita atualmente?",
+        "diretriz": "Implantação automática usando ferramentas DevOps.",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 336,
+        "numero": 2,
+        "questao": "A sua equipe é capaz de atender rapidamente a demandas de mudanças do negócio?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 337,
+        "numero": 2,
+        "questao": "A sua equipe é capaz de atender rapidamente a demandas de mudanças do negócio?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 338,
+        "numero": 2,
+        "questao": "A sua equipe é capaz de atender rapidamente a demandas de mudanças do negócio?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 339,
+        "numero": 3,
+        "questao": "Como é o seu processo de gerenciamento de release?",
+        "diretriz": "Não há um processo adequado de gerenciamento de release",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 340,
+        "numero": 3,
+        "questao": "Como é o seu processo de gerenciamento de release?",
+        "diretriz": "O processo de gerenciamento de release é manual, usando planilha Excel, feito sem rastreabilidade",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 341,
+        "numero": 3,
+        "questao": "Como é o seu processo de gerenciamento de release?",
+        "diretriz": "O processo de gerenciamento de release é feito usando planilha Excel, com rastreabilidade",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 342,
+        "numero": 3,
+        "questao": "Como é o seu processo de gerenciamento de release?",
+        "diretriz": "O processo de gerenciamento de release é feito usando ferramentas como, mas sem rastreabilidade até a produção",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 343,
+        "numero": 3,
+        "questao": "Como é o seu processo de gerenciamento de release?",
+        "diretriz": "O processo de gerenciamento de release é feito usando ferramentas, com rastreabilidade e monitoração",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 344,
+        "numero": 4,
+        "questao": "Quais são os conteúdos da nota de release que são compartilhados com o time de operações?",
+        "diretriz": "Nenhuma nota de release é criada e as instruções de implantação são enviadas por e-mail",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 345,
+        "numero": 4,
+        "questao": "Quais são os conteúdos da nota de release que são compartilhados com o time de operações?",
+        "diretriz": "As notas de release com instruções de implantação são enviadas por e-mail com detalhes decididos por cada indivíduo",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 346,
+        "numero": 4,
+        "questao": "Quais são os conteúdos da nota de release que são compartilhados com o time de operações?",
+        "diretriz": "A nota de release é criada em Word ou Excel com o numero do build, instruções de implantação, detalhes do ambiente e numeros das histórias",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 347,
+        "numero": 4,
+        "questao": "Quais são os conteúdos da nota de release que são compartilhados com o time de operações?",
+        "diretriz": "A nota de release é automaticamente proveniente da ferramenta de release, o time de operações é envolvido e fica ciente desde o início",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 348,
+        "numero": 5,
+        "questao": "Com que frequência vocês implantam novas funcionalidades em produção?",
+        "diretriz": "Demora mais de um mês para conseguirmos implantar um novo release",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 349,
+        "numero": 5,
+        "questao": "Com que frequência vocês implantam novas funcionalidades em produção?",
+        "diretriz": "Pelo menos uma vez por mês",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 350,
+        "numero": 5,
+        "questao": "Com que frequência vocês implantam novas funcionalidades em produção?",
+        "diretriz": "Pelo menos uma vez a cada duas semanas",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 351,
+        "numero": 5,
+        "questao": "Com que frequência vocês implantam novas funcionalidades em produção?",
+        "diretriz": "Pelo menos uma vez por semana",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 352,
+        "numero": 5,
+        "questao": "Com que frequência vocês implantam novas funcionalidades em produção?",
+        "diretriz": "É possível implantar uma ou mais vezes por dia",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 353,
+        "numero": 6,
+        "questao": "Como você mantêm a compatibilidade entre o sistema operacional, middleware, banco de dados e quaisquer outros componentes de software?",
+        "diretriz": "De forma manual e feita caso a caso",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 354,
+        "numero": 6,
+        "questao": "Como você mantêm a compatibilidade entre o sistema operacional, middleware, banco de dados e quaisquer outros componentes de software?",
+        "diretriz": "A compatibilidade é mantida via planilha Excel e as instalações são manuais",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 355,
+        "numero": 6,
+        "questao": "Como você mantêm a compatibilidade entre o sistema operacional, middleware, banco de dados e quaisquer outros componentes de software?",
+        "diretriz": "São usadas imagens virtualizadas para manter a compatibilidade, mas é demorado e caro",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 356,
+        "numero": 6,
+        "questao": "Como você mantêm a compatibilidade entre o sistema operacional, middleware, banco de dados e quaisquer outros componentes de software?",
+        "diretriz": "A compatibilidade é mantida usando padrões e ferramentas DevOps.",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 357,
+        "numero": 7,
+        "questao": "Quão replicável é o seu processo de release?",
+        "diretriz": "Release e implantação são gerenciados como atividades separadas, com reprodutibilidade muito limitada",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 358,
+        "numero": 7,
+        "questao": "Quão replicável é o seu processo de release?",
+        "diretriz": "O processo de implantação é replicável, mas o processo de release é coordenado manualmente",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 359,
+        "numero": 7,
+        "questao": "Quão replicável é o seu processo de release?",
+        "diretriz": "Os processos de implantação e de release são replicáveis, exceto para grandes mudanças",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 360,
+        "numero": 7,
+        "questao": "Quão replicável é o seu processo de release?",
+        "diretriz": "Os processos de implantação e de release são totalmente replicáveis, para todos os tipos de releases",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 361,
+        "numero": 7,
+        "questao": "Quão replicável é o seu processo de release?",
+        "diretriz": "Os processos de implantação e de release são totalmente replicáveis, medidos e continuamente melhorados.",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 362,
+        "numero": 8,
+        "questao": "Quando a equipe de Dev quer atualizar um release, o que eles fazem? (Todos que se aplicam)",
+        "diretriz": "Nenhuma das opções acima",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 363,
+        "numero": 8,
+        "questao": "Quando a equipe de Dev quer atualizar um release, o que eles fazem? (Todos que se aplicam)",
+        "diretriz": "Segue o procedimento documentado de QA para aprovar alterações",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 364,
+        "numero": 8,
+        "questao": "Quando a equipe de Dev quer atualizar um release, o que eles fazem? (Todos que se aplicam)",
+        "diretriz": "Portais de qualidade manuais asseguram que ocorra a correta aprovação gerencial",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 365,
+        "numero": 8,
+        "questao": "Quando a equipe de Dev quer atualizar um release, o que eles fazem? (Todos que se aplicam)",
+        "diretriz": "O controle de exposição irá testar os novos recursos na produção e enviará progressivamente mais utilização para a nova versão, com base em seu sucesso",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 366,
+        "numero": 8,
+        "questao": "Quando a equipe de Dev quer atualizar um release, o que eles fazem? (Todos que se aplicam)",
+        "diretriz": "Um pipeline de release automático garante que cada check-in pode ser enviado para release de forma segura",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 367,
+        "numero": 9,
+        "questao": "Quanto tempo leva para fazer uma mudança de uma linha e implantar o novo software, para corrigir um problema crítico de produção?",
+        "diretriz": "Não se aplica",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 368,
+        "numero": 9,
+        "questao": "Quanto tempo leva para fazer uma mudança de uma linha e implantar o novo software, para corrigir um problema crítico de produção?",
+        "diretriz": "Mais de uma semana",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 369,
+        "numero": 9,
+        "questao": "Quanto tempo leva para fazer uma mudança de uma linha e implantar o novo software, para corrigir um problema crítico de produção?",
+        "diretriz": "Alguns dias, mas menos que uma semana",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 370,
+        "numero": 9,
+        "questao": "Quanto tempo leva para fazer uma mudança de uma linha e implantar o novo software, para corrigir um problema crítico de produção?",
+        "diretriz": "Algumas horas, mas menos que um dia",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 371,
+        "numero": 9,
+        "questao": "Quanto tempo leva para fazer uma mudança de uma linha e implantar o novo software, para corrigir um problema crítico de produção?",
+        "diretriz": "Menos de uma hora",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 372,
+        "numero": 10,
+        "questao": "Vocês utilizam as técnicas de Canary Release ou Features Toggles no processo de implantação?",
+        "diretriz": "Não conheço estes conceitos",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 373,
+        "numero": 10,
+        "questao": "Vocês utilizam as técnicas de Canary Release ou Features Toggles no processo de implantação?",
+        "diretriz": "Não usamos nenhum dos dois",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 374,
+        "numero": 10,
+        "questao": "Vocês utilizam as técnicas de Canary Release ou Features Toggles no processo de implantação?",
+        "diretriz": "Usamos apenas Features Toggles",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 375,
+        "numero": 10,
+        "questao": "Vocês utilizam as técnicas de Canary Release ou Features Toggles no processo de implantação?",
+        "diretriz": "Usamos apenas Canary Release",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 376,
+        "numero": 10,
+        "questao": "Vocês utilizam as técnicas de Canary Release ou Features Toggles no processo de implantação?",
+        "diretriz": "Usamos ambas as técnicas",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 377,
+        "numero": 11,
+        "questao": "Vocês utilizam a técnica de Blue-Green Deployment?",
+        "diretriz": "Não conheço este conceito",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 378,
+        "numero": 11,
+        "questao": "Vocês utilizam a técnica de Blue-Green Deployment?",
+        "diretriz": "Não usamos",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 379,
+        "numero": 11,
+        "questao": "Vocês utilizam a técnica de Blue-Green Deployment?",
+        "diretriz": "Estamos tentando usar, mas ainda está em fase bem inicial",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 380,
+        "numero": 11,
+        "questao": "Vocês utilizam a técnica de Blue-Green Deployment?",
+        "diretriz": "Usamos em alguns projetos",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 381,
+        "numero": 11,
+        "questao": "Vocês utilizam a técnica de Blue-Green Deployment?",
+        "diretriz": "Usamos em todos os nossos projetos",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 382,
+        "numero": 12,
+        "questao": "Você é capaz de lidar facilmente com grande implantações complexas em larga escala?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 383,
+        "numero": 12,
+        "questao": "Você é capaz de lidar facilmente com grande implantações complexas em larga escala?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 384,
+        "numero": 12,
+        "questao": "Você é capaz de lidar facilmente com grande implantações complexas em larga escala?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 385,
+        "numero": 13,
+        "questao": "Vocês conseguem implantar novas versões de aplicações para produção sem tempo de inatividade?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 386,
+        "numero": 13,
+        "questao": "Vocês conseguem implantar novas versões de aplicações para produção sem tempo de inatividade?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 387,
+        "numero": 13,
+        "questao": "Vocês conseguem implantar novas versões de aplicações para produção sem tempo de inatividade?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 388,
+        "numero": 14,
+        "questao": "As suas equipes estão preparadas para lidar com um rollback da implantação?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 389,
+        "numero": 14,
+        "questao": "As suas equipes estão preparadas para lidar com um rollback da implantação?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 390,
+        "numero": 14,
+        "questao": "As suas equipes estão preparadas para lidar com um rollback da implantação?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "automação"
+      },
+      {
+        "id": 391,
+        "numero": 15,
+        "questao": "Todas as partes interessadas têm visibilidade sobre as principais atividades de release?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 392,
+        "numero": 15,
+        "questao": "Todas as partes interessadas têm visibilidade sobre as principais atividades de release?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 393,
+        "numero": 15,
+        "questao": "Todas as partes interessadas têm visibilidade sobre as principais atividades de release?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 394,
+        "numero": 16,
+        "questao": "Qual é o processo de aprovação de implantação com os critérios de entrada e saída?",
+        "diretriz": "Sem processo de aprovação e colaboração manual",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 395,
+        "numero": 16,
+        "questao": "Qual é o processo de aprovação de implantação com os critérios de entrada e saída?",
+        "diretriz": "Processo manual para copiar os artefatos para os ambientes; a equipe operações é informada verbalmente",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 396,
+        "numero": 16,
+        "questao": "Qual é o processo de aprovação de implantação com os critérios de entrada e saída?",
+        "diretriz": "Processo semiautomatizado",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 397,
+        "numero": 16,
+        "questao": "Qual é o processo de aprovação de implantação com os critérios de entrada e saída?",
+        "diretriz": "Processo automatizado usando ferramenta de gerenciamento de incidentes",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 398,
+        "numero": 16,
+        "questao": "Qual é o processo de aprovação de implantação com os critérios de entrada e saída?",
+        "diretriz": "Processo automatizado usando ferramentas DevOps de gerenciamento de release e implantação",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 399,
+        "numero": 17,
+        "questao": "Como você coleta pró-ativamente os desvios do calendário de release e cria um feedback para trazê-los de volta ao caminho certo?",
+        "diretriz": "Por meio de uma abordagem reativa",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 400,
+        "numero": 17,
+        "questao": "Como você coleta pró-ativamente os desvios do calendário de release e cria um feedback para trazê-los de volta ao caminho certo?",
+        "diretriz": "O calendário de release existe em planilha Excel e os desvios são discutidos durante a reunião de status",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 401,
+        "numero": 17,
+        "questao": "Como você coleta pró-ativamente os desvios do calendário de release e cria um feedback para trazê-los de volta ao caminho certo?",
+        "diretriz": "O calendário de release é monitorado regularmente e os desvios são capturados com antecedência",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 402,
+        "numero": 17,
+        "questao": "Como você coleta pró-ativamente os desvios do calendário de release e cria um feedback para trazê-los de volta ao caminho certo?",
+        "diretriz": "São usadas ferramentas ALM e o relatório mostra os desvios",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 403,
+        "numero": 17,
+        "questao": "Como você coleta pró-ativamente os desvios do calendário de release e cria um feedback para trazê-los de volta ao caminho certo?",
+        "diretriz": "São usadas ferramentas ALM. Os desvios são mostrados em relatórios de forma dinâmica. As notificações são enviadas antecipadamente e os ajustes são feitos a tempo",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 404,
+        "numero": 18,
+        "questao": "Como você monitora os itens de configuração? (por exemplo: numero do build ou release, versão da implantação)",
+        "diretriz": "Não é feita monitoração",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 405,
+        "numero": 18,
+        "questao": "Como você monitora os itens de configuração? (por exemplo: numero do build ou release, versão da implantação)",
+        "diretriz": "A monitoração é feita por meio de planilha Excel, mas de forma manual",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 406,
+        "numero": 18,
+        "questao": "Como você monitora os itens de configuração? (por exemplo: numero do build ou release, versão da implantação)",
+        "diretriz": "A monitoração é feita com base em scripts e o processo é semiautomático",
+        "pontos": 3,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 407,
+        "numero": 18,
+        "questao": "Como você monitora os itens de configuração? (por exemplo: numero do build ou release, versão da implantação)",
+        "diretriz": "Temos relatórios de monitoração automáticos gerados usando integração de ferramentas DevOps",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 408,
+        "numero": 19,
+        "questao": "Qual o nível de controle que a sua empresa tem sobre os processos de release?",
+        "diretriz": "Nossos processos de release são feitos caso a caso",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 409,
+        "numero": 19,
+        "questao": "Qual o nível de controle que a sua empresa tem sobre os processos de release?",
+        "diretriz": "Temos um processo documentado para as pessoas usarem e verificamos manualmente as suas condições",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 410,
+        "numero": 19,
+        "questao": "Qual o nível de controle que a sua empresa tem sobre os processos de release?",
+        "diretriz": "O nosso processo de release é em grande parte automatizado, com a capacidade de monitorar o cumprimento, mas ainda é necessário algum envolvimento manual",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 411,
+        "numero": 19,
+        "questao": "Qual o nível de controle que a sua empresa tem sobre os processos de release?",
+        "diretriz": "O nosso processo de release é totalmente automatizado por ferramentas DevOps e conseguimos monitorar e garantir o cumprimento",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 412,
+        "numero": 20,
+        "questao": "Com relação à visibilidade do processo de release de software, como os dados de release da sua empresa são reunidos e disponibilizados para a equipe?",
+        "diretriz": "De forma desestruturada",
+        "pontos": 1,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 413,
+        "numero": 20,
+        "questao": "Com relação à visibilidade do processo de release de software, como os dados de release da sua empresa são reunidos e disponibilizados para a equipe?",
+        "diretriz": "De forma estruturada, mas manualmente e falta uma visão geral de alto nível sobre o processo de release de software",
+        "pontos": 2,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 414,
+        "numero": 20,
+        "questao": "Com relação à visibilidade do processo de release de software, como os dados de release da sua empresa são reunidos e disponibilizados para a equipe?",
+        "diretriz": "Temos um processo definido para como a informação sobre todos os releases é coletada e organizada em um local central. Os membros da equipe podem obter informações sobre os níveis de qualidade, status de releases e dependências",
+        "pontos": 4,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 415,
+        "numero": 20,
+        "questao": "Com relação à visibilidade do processo de release de software, como os dados de release da sua empresa são reunidos e disponibilizados para a equipe?",
+        "diretriz": "Automatizada e com métricas em todo o processo de release: a visibilidade de alto nível sobre o processo de liberação é possível através de um hub central com a capacidade geral sobre análise de pipeline e com capacidadesde obter uma visão geral sobre análise de pipeline e com capacidades de detalhamento em pontos específicos",
+        "pontos": 5,
+        "grupo": "entrega continua",
+        "pilar": "painel de controle"
+      },
+      {
+        "id": 416,
+        "numero": 1,
+        "questao": "Quais são as ferramentas usadas para a monitoração?",
+        "diretriz": "Não usamos ferramentas de monitoração",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 417,
+        "numero": 1,
+        "questao": "Quais são as ferramentas usadas para a monitoração?",
+        "diretriz": "Temos scripts que são capazes de criar painéis de controle",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 418,
+        "numero": 1,
+        "questao": "Quais são as ferramentas usadas para a monitoração?",
+        "diretriz": "Usamos uma ferramenta DevOps para a monitoração, que está integrada com os processos e ferramentas de desenvolvimento",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 419,
+        "numero": 2,
+        "questao": "Como é feito o gerenciamento de log?",
+        "diretriz": "Não temos uma hospedagem de log centralizada",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 420,
+        "numero": 2,
+        "questao": "Como é feito o gerenciamento de log?",
+        "diretriz": "Temos hospedagem de log centralizada para várias aplicações e infraestrutura; analisamos arquivos de texto usando utilitários (find/grep)",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 421,
+        "numero": 2,
+        "questao": "Como é feito o gerenciamento de log?",
+        "diretriz": "Usando uma ferramenta de gerenciamento de log, que é integrada com aplicações e infraestrutura e permite analisar e gerar relatórios",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 422,
+        "numero": 3,
+        "questao": "Como os defeitos são reportados para a equipe de desenvolvimento? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Nenhuma das opções acima",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 423,
+        "numero": 3,
+        "questao": "Como os defeitos são reportados para a equipe de desenvolvimento? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Á medida em que são reportados pelo usuário (ou pela parte interessada)",
+        "pontos": 2,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 424,
+        "numero": 3,
+        "questao": "Como os defeitos são reportados para a equipe de desenvolvimento? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Por meio de dados relevantes do arquivo de log / diagnóstico, incluídos automaticamente no relatório do incidente",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 425,
+        "numero": 3,
+        "questao": "Como os defeitos são reportados para a equipe de desenvolvimento? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Por não passar nos casos de teste ou por não atender aos critérios de aceitação",
+        "pontos": 4,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 426,
+        "numero": 3,
+        "questao": "Como os defeitos são reportados para a equipe de desenvolvimento? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Por meio de vídeo de interação do usuário ou de log de ações com gestos do usuário",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 427,
+        "numero": 4,
+        "questao": "As equipes têm uma visão unificada que lhes permite identificar rapidamente os incidentes e fazer uma triagem deles?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 428,
+        "numero": 4,
+        "questao": "As equipes têm uma visão unificada que lhes permite identificar rapidamente os incidentes e fazer uma triagem deles?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 429,
+        "numero": 4,
+        "questao": "As equipes têm uma visão unificada que lhes permite identificar rapidamente os incidentes e fazer uma triagem deles?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 430,
+        "numero": 5,
+        "questao": "Como você faz o gerenciamento de eventos e incidentes?",
+        "diretriz": "Não há um processo de gerenciamento de incidentes",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 431,
+        "numero": 5,
+        "questao": "Como você faz o gerenciamento de eventos e incidentes?",
+        "diretriz": "Os incidentes são comunicados por e-mail pelo cliente e registrados manualmente em planilha Excel",
+        "pontos": 2,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 432,
+        "numero": 5,
+        "questao": "Como você faz o gerenciamento de eventos e incidentes?",
+        "diretriz": "Gerenciamento de incidentes usando ferramentas de incidentes, mas sem integração automatizada com o processo de release",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 433,
+        "numero": 5,
+        "questao": "Como você faz o gerenciamento de eventos e incidentes?",
+        "diretriz": "Gerenciamento de incidentes usando ferramentas de incidentes, com integração manual com os processos de release e desenvolvimento",
+        "pontos": 4,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 434,
+        "numero": 5,
+        "questao": "Como você faz o gerenciamento de eventos e incidentes?",
+        "diretriz": "Gerenciamento de incidentes usando ferramentas DevOps, com integração com os processos de release e desenvolvimento",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 435,
+        "numero": 6,
+        "questao": "Vocês utilizam algum sistema de rastreamento ou de gerenciamento do controle de mudanças, de forma a permitir rastreabilidade e auditoria?",
+        "diretriz": "Não usamos ferramentas de controle de mudanças",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 436,
+        "numero": 6,
+        "questao": "Vocês utilizam algum sistema de rastreamento ou de gerenciamento do controle de mudanças, de forma a permitir rastreabilidade e auditoria?",
+        "diretriz": "Não temos um sistema de rastreamento, mas usamos ferramentas de controle de mudanças",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 437,
+        "numero": 6,
+        "questao": "Vocês utilizam algum sistema de rastreamento ou de gerenciamento do controle de mudanças, de forma a permitir rastreabilidade e auditoria?",
+        "diretriz": "Sim, os release notes são gerados automaticamente a partir da ferramenta de controle de mudanças, com rastreabilidade total",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "gerenciamento"
+      },
+      {
+        "id": 438,
+        "numero": 7,
+        "questao": "As equipes têm visibilidade sobre a capacidade do sistema, a fim de compreender o impacto do aumento do workload do sistema?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 439,
+        "numero": 7,
+        "questao": "As equipes têm visibilidade sobre a capacidade do sistema, a fim de compreender o impacto do aumento do workload do sistema?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 440,
+        "numero": 7,
+        "questao": "As equipes têm visibilidade sobre a capacidade do sistema, a fim de compreender o impacto do aumento do workload do sistema?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 441,
+        "numero": 8,
+        "questao": "A equipe de operações é envolvida desde a fase de análise de requisitos para dar a sua contribuição sobre os ambientes, a implantação e o planejamento de capacidade?",
+        "diretriz": "O time de operações não é envolvido na fase de análise dos requisitos",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 442,
+        "numero": 8,
+        "questao": "A equipe de operações é envolvida desde a fase de análise de requisitos para dar a sua contribuição sobre os ambientes, a implantação e o planejamento de capacidade?",
+        "diretriz": "O time de operações é envolvido apenas quando necessário, caso a caso",
+        "pontos": 2,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 443,
+        "numero": 8,
+        "questao": "A equipe de operações é envolvida desde a fase de análise de requisitos para dar a sua contribuição sobre os ambientes, a implantação e o planejamento de capacidade?",
+        "diretriz": "O time de operações é envolvido apenas para prover informações",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 444,
+        "numero": 8,
+        "questao": "A equipe de operações é envolvida desde a fase de análise de requisitos para dar a sua contribuição sobre os ambientes, a implantação e o planejamento de capacidade?",
+        "diretriz": "O time de operações é envolvido ativamente nos encontros de planejamento do dia-a-dia",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 445,
+        "numero": 9,
+        "questao": "Qual é o tempo necessário para aumentar a capacidade do ambiente uma vez que o limite foi atingido?",
+        "diretriz": "De 8 a 12 semanas",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 446,
+        "numero": 9,
+        "questao": "Qual é o tempo necessário para aumentar a capacidade do ambiente uma vez que o limite foi atingido?",
+        "diretriz": "De 4 a 8 semanas",
+        "pontos": 2,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 447,
+        "numero": 9,
+        "questao": "Qual é o tempo necessário para aumentar a capacidade do ambiente uma vez que o limite foi atingido?",
+        "diretriz": "De 2 a 4 semanas",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 448,
+        "numero": 9,
+        "questao": "Qual é o tempo necessário para aumentar a capacidade do ambiente uma vez que o limite foi atingido?",
+        "diretriz": "Menos de uma semana",
+        "pontos": 4,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 449,
+        "numero": 9,
+        "questao": "Qual é o tempo necessário para aumentar a capacidade do ambiente uma vez que o limite foi atingido?",
+        "diretriz": "Sob demanda, em menos de 2 horas",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 450,
+        "numero": 10,
+        "questao": "Qual é o processo para planejamento de capacidade?",
+        "diretriz": "Não há um processo definido",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 451,
+        "numero": 10,
+        "questao": "Qual é o processo para planejamento de capacidade?",
+        "diretriz": "Usamos scripts para coletar dados históricos e prever o tempo estimado em que podemos ficar sem capacidade",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 452,
+        "numero": 10,
+        "questao": "Qual é o processo para planejamento de capacidade?",
+        "diretriz": "Usamos uma ferramenta de gestão de capacidade para monitorar a tendência atual e prever o tempo estimado em que podemos ficar sem capacidade, para que possamos ser proativos",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 453,
+        "numero": 11,
+        "questao": "Sua infraestrutura é auto-escalável?",
+        "diretriz": "A aplicação não pode escalar",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 454,
+        "numero": 11,
+        "questao": "Sua infraestrutura é auto-escalável?",
+        "diretriz": "Não há espaço para a expansão. A Infraestrutura precisa ser implementada.",
+        "pontos": 2,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 455,
+        "numero": 11,
+        "questao": "Sua infraestrutura é auto-escalável?",
+        "diretriz": "A infraestrutura é escalável, mas a expansão e a redução são feitas manualmente, com base em parâmetros de limite",
+        "pontos": 4,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 456,
+        "numero": 11,
+        "questao": "Sua infraestrutura é auto-escalável?",
+        "diretriz": "Auto-escalabilidade automática para expansão e redução da infraestrutura, com base em parâmetros configuráveis, como uso de CPU/memória",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "capacidade"
+      },
+      {
+        "id": 457,
+        "numero": 12,
+        "questao": "Quais são os limites de desempenho definidos e como eles são monitorados?",
+        "diretriz": "Não há limites definidos e a abordagem é reativa",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 458,
+        "numero": 12,
+        "questao": "Quais são os limites de desempenho definidos e como eles são monitorados?",
+        "diretriz": "Sem limites, mas com monitoração manual proativa",
+        "pontos": 2,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 459,
+        "numero": 12,
+        "questao": "Quais são os limites de desempenho definidos e como eles são monitorados?",
+        "diretriz": "Limites definidos e monitoração baseada em scripts",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 460,
+        "numero": 12,
+        "questao": "Quais são os limites de desempenho definidos e como eles são monitorados?",
+        "diretriz": "Monitoração automatizada usando ferramenta, mas com limites definidos",
+        "pontos": 4,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 461,
+        "numero": 12,
+        "questao": "Quais são os limites de desempenho definidos e como eles são monitorados?",
+        "diretriz": "Monitoração automatizada e rápido tempo de resposta para escalar o ambiente.",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 462,
+        "numero": 13,
+        "questao": "Como você monitora suas aplicações quanto a erros, alertas e desempenho?",
+        "diretriz": "Não há monitoração",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 463,
+        "numero": 13,
+        "questao": "Como você monitora suas aplicações quanto a erros, alertas e desempenho?",
+        "diretriz": "Monitoração manual do log e comunicação para o time de desenvolvimento de forma manual",
+        "pontos": 2,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 464,
+        "numero": 13,
+        "questao": "Como você monitora suas aplicações quanto a erros, alertas e desempenho?",
+        "diretriz": "Monitoração por meio de scripts",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 465,
+        "numero": 13,
+        "questao": "Como você monitora suas aplicações quanto a erros, alertas e desempenho?",
+        "diretriz": "Monitoração usando ferramentas, mas sem integração com as ferramentas de desenvolvimento",
+        "pontos": 4,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 466,
+        "numero": 13,
+        "questao": "Como você monitora suas aplicações quanto a erros, alertas e desempenho?",
+        "diretriz": "Monitoração usando ferramentas DevOps e com feedback automatizado para o time de desenvolvimento",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 467,
+        "numero": 14,
+        "questao": "As equipes são capazes de analisar métricas de performance para solucionar problemas antes que eles afetem os usuários finais?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 468,
+        "numero": 14,
+        "questao": "As equipes são capazes de analisar métricas de performance para solucionar problemas antes que eles afetem os usuários finais?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 469,
+        "numero": 14,
+        "questao": "As equipes são capazes de analisar métricas de performance para solucionar problemas antes que eles afetem os usuários finais?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 470,
+        "numero": 15,
+        "questao": "Sua aplicação permite alta disponibilidade (HA)?",
+        "diretriz": "A aplicação não está configurada para HA",
+        "pontos": 1,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 471,
+        "numero": 15,
+        "questao": "Sua aplicação permite alta disponibilidade (HA)?",
+        "diretriz": "A aplicação está configurada para HA, mas o procedimento de contingência (fallback) é manual, com perda acordada de transações",
+        "pontos": 3,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 472,
+        "numero": 15,
+        "questao": "Sua aplicação permite alta disponibilidade (HA)?",
+        "diretriz": "A aplicação está configurada para HA e o procedimento de contingência (fallback) é automático e sem perda de dados",
+        "pontos": 5,
+        "grupo": "monitoração continua",
+        "pilar": "performance"
+      },
+      {
+        "id": 473,
+        "numero": 1,
+        "questao": "Existe alguma análise, orientação ou relatório produzido para criar um feedback para a equipe de desenvolvimento?",
+        "diretriz": "Não há relatórios",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 474,
+        "numero": 1,
+        "questao": "Existe alguma análise, orientação ou relatório produzido para criar um feedback para a equipe de desenvolvimento?",
+        "diretriz": "Tanto a alimentação de dados quanto a criação de relatórios são manuais",
+        "pontos": 2,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 475,
+        "numero": 1,
+        "questao": "Existe alguma análise, orientação ou relatório produzido para criar um feedback para a equipe de desenvolvimento?",
+        "diretriz": "A geração de alertas é baseada em scripts, mas não há análises",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 476,
+        "numero": 1,
+        "questao": "Existe alguma análise, orientação ou relatório produzido para criar um feedback para a equipe de desenvolvimento?",
+        "diretriz": "São usadas ferramentas de análise, mas o feedback não é usado para a melhoria contínua.",
+        "pontos": 4,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 477,
+        "numero": 1,
+        "questao": "Existe alguma análise, orientação ou relatório produzido para criar um feedback para a equipe de desenvolvimento?",
+        "diretriz": "Usamos uma ferramenta analítica e também provemos feedback para melhoria contínua",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 478,
+        "numero": 2,
+        "questao": "Como você coleta o feedback do usuário interno?",
+        "diretriz": "Não há um processo formal. O feedback do usuário é transmitido pelo cliente para a equipe de gerenciamento",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 479,
+        "numero": 2,
+        "questao": "Como você coleta o feedback do usuário interno?",
+        "diretriz": "O feedback do usuário é comunicado por e-mail pelas partes interessadas",
+        "pontos": 2,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 480,
+        "numero": 2,
+        "questao": "Como você coleta o feedback do usuário interno?",
+        "diretriz": "É usada planilha Excel com acompanhamento do histórico",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 481,
+        "numero": 2,
+        "questao": "Como você coleta o feedback do usuário interno?",
+        "diretriz": "Ferramentas de gerenciamento são usadas para coletar feedback online do usuário",
+        "pontos": 4,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 482,
+        "numero": 2,
+        "questao": "Como você coleta o feedback do usuário interno?",
+        "diretriz": "É utilizada uma processo ferramenta DevOps de feedback com processos de planejamento contínuo de negócios",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 483,
+        "numero": 3,
+        "questao": "Como você coleta o feedback cliente final? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Nenhuma da opções acima",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 484,
+        "numero": 3,
+        "questao": "Como você coleta o feedback cliente final? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Por meio de contato direto (e-mail, telefone, Internet) ou por meio de representantes de contas / equipe de vendas",
+        "pontos": 2,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 485,
+        "numero": 3,
+        "questao": "Como você coleta o feedback cliente final? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Telemetria de utilização",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 486,
+        "numero": 3,
+        "questao": "Como você coleta o feedback cliente final? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Abordamos o cliente via UserVoice, reuniões web, listserv, reuniões ou sala de bate-papo",
+        "pontos": 4,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 487,
+        "numero": 3,
+        "questao": "Como você coleta o feedback cliente final? (escolha todos que se aplicam e a nota aumenta com a quantidade de itens selecionados)",
+        "diretriz": "Pela monitoração de mídias sociais e blogs ou por meio de tickets da central de serviços (service desk)",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 488,
+        "numero": 4,
+        "questao": "Quais são as ferramentas utilizadas para coletar feedback?",
+        "diretriz": "Os incidentes são gerenciados através de comunicação por e-mail",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 489,
+        "numero": 4,
+        "questao": "Quais são as ferramentas utilizadas para coletar feedback?",
+        "diretriz": "Baseado em planilha Excel e com manutenção manual",
+        "pontos": 2,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 490,
+        "numero": 4,
+        "questao": "Quais são as ferramentas utilizadas para coletar feedback?",
+        "diretriz": "Baseado em planilha Excel com o histórico monitorado na forma de versões de incidentes",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 491,
+        "numero": 4,
+        "questao": "Quais são as ferramentas utilizadas para coletar feedback?",
+        "diretriz": "Ferramentas de gerenciamento de incidentes usadas independentemente do usuário final",
+        "pontos": 4,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 492,
+        "numero": 4,
+        "questao": "Quais são as ferramentas utilizadas para coletar feedback?",
+        "diretriz": "Serviço de coleta de feedback on-line integrado, juntamente com ferramentas de gerencimanto de chamados",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 493,
+        "numero": 5,
+        "questao": "Quando o feedback é coletado?",
+        "diretriz": "Somente quando há uma crise",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 494,
+        "numero": 5,
+        "questao": "Quando o feedback é coletado?",
+        "diretriz": "Apenas durante crises e pós-implantação.",
+        "pontos": 2,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 495,
+        "numero": 5,
+        "questao": "Quando o feedback é coletado?",
+        "diretriz": "Durante crises, pós-implantação e testes",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 496,
+        "numero": 5,
+        "questao": "Quando o feedback é coletado?",
+        "diretriz": "Durante crises, pós-implantação, testes e desenvolvimento",
+        "pontos": 4,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 497,
+        "numero": 5,
+        "questao": "Quando o feedback é coletado?",
+        "diretriz": "Existe a opção de prover feedback a qualquer momento, durante todas as fases.",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 498,
+        "numero": 6,
+        "questao": "Como você mede a aceitação / adequação ao propósito? (escolher todas que se adequam)",
+        "diretriz": "Nenhuma das opções acima",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 499,
+        "numero": 6,
+        "questao": "Como você mede a aceitação / adequação ao propósito? (escolher todas que se adequam)",
+        "diretriz": "Por meio de testes manuais ou critérios gerais de aceitação",
+        "pontos": 2,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 500,
+        "numero": 6,
+        "questao": "Como você mede a aceitação / adequação ao propósito? (escolher todas que se adequam)",
+        "diretriz": "Por meio de laboratórios de usabilidade ou testes exploratórios",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 501,
+        "numero": 6,
+        "questao": "Como você mede a aceitação / adequação ao propósito? (escolher todas que se adequam)",
+        "diretriz": "Por meio de feedback qualitativo do produto (por exemplo: \"me mande um sorriso\")",
+        "pontos": 4,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 502,
+        "numero": 6,
+        "questao": "Como você mede a aceitação / adequação ao propósito? (escolher todas que se adequam)",
+        "diretriz": "Por meio da coleta de telemetria da utilização, com o monitoramento de usuários reais",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 503,
+        "numero": 7,
+        "questao": "O que você faz com os dados de utilização de suas aplicações? (escolher todas que se adequam)",
+        "diretriz": "Os dados de utilização não são monitorados",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 504,
+        "numero": 7,
+        "questao": "O que você faz com os dados de utilização de suas aplicações? (escolher todas que se adequam)",
+        "diretriz": "Os dados de utilização são inferidos por meio de pedidos de funcionalidades e relatos de erros",
+        "pontos": 2,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 505,
+        "numero": 7,
+        "questao": "O que você faz com os dados de utilização de suas aplicações? (escolher todas que se adequam)",
+        "diretriz": "Os dados de utilização são monitorados pelo departamento de Marketing",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 506,
+        "numero": 7,
+        "questao": "O que você faz com os dados de utilização de suas aplicações? (escolher todas que se adequam)",
+        "diretriz": "Os dados de utilização ajudam a esclarecer sobre os próximos passos no backlog de produtos",
+        "pontos": 4,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 507,
+        "numero": 7,
+        "questao": "O que você faz com os dados de utilização de suas aplicações? (escolher todas que se adequam)",
+        "diretriz": "Os dados de utilização são combinados com os dados de performance e avaliados para cada release",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 508,
+        "numero": 8,
+        "questao": "Como você garante que a qualidade do serviço ou os requisitos não-funcionais são atendidos? (escolher todas que se adequam)",
+        "diretriz": "Nenhuma das opções acima",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 509,
+        "numero": 8,
+        "questao": "Como você garante que a qualidade do serviço ou os requisitos não-funcionais são atendidos? (escolher todas que se adequam)",
+        "diretriz": "Nós anotamos todos os requisitos",
+        "pontos": 2,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 510,
+        "numero": 8,
+        "questao": "Como você garante que a qualidade do serviço ou os requisitos não-funcionais são atendidos? (escolher todas que se adequam)",
+        "diretriz": "Testamos na produção contra os nossos serviços em execução para garantir que eles funcionam para os usuários reais e não podem ser violados",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 511,
+        "numero": 8,
+        "questao": "Como você garante que a qualidade do serviço ou os requisitos não-funcionais são atendidos? (escolher todas que se adequam)",
+        "diretriz": "Nós temos uma definição consistente de feito (done)",
+        "pontos": 4,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 512,
+        "numero": 8,
+        "questao": "Como você garante que a qualidade do serviço ou os requisitos não-funcionais são atendidos? (escolher todas que se adequam)",
+        "diretriz": "Nós automatizamos todos os testes para: desempenho, segurança, localização e outras qualidades de serviço",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 513,
+        "numero": 9,
+        "questao": "Como você valida designs de experiência do usuário? (escolher todas que se adequam)",
+        "diretriz": "Por meio de revisão escrita da especificação ou do documento",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 514,
+        "numero": 9,
+        "questao": "Como você valida designs de experiência do usuário? (escolher todas que se adequam)",
+        "diretriz": "Por meio de revisão via storyboard com o proprietário do produto e/ou com as partes interessadas",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 515,
+        "numero": 9,
+        "questao": "Como você valida designs de experiência do usuário? (escolher todas que se adequam)",
+        "diretriz": "Por meio de revisão via storyboard com os usuários internos (negócio)",
+        "pontos": 4,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 516,
+        "numero": 9,
+        "questao": "Como você valida designs de experiência do usuário? (escolher todas que se adequam)",
+        "diretriz": "Por meio de testes A/B em produção",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "feedback continuo"
+      },
+      {
+        "id": 517,
+        "numero": 10,
+        "questao": "Como o feedback do usuário é analisado e otimizado para melhoria contínua?",
+        "diretriz": "Não há otimização para melhoria contínua",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 518,
+        "numero": 10,
+        "questao": "Como o feedback do usuário é analisado e otimizado para melhoria contínua?",
+        "diretriz": "Por meio de discussões da equipe, com base em dados de planilha Excel",
+        "pontos": 2,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 519,
+        "numero": 10,
+        "questao": "Como o feedback do usuário é analisado e otimizado para melhoria contínua?",
+        "diretriz": "São usadas técnicas como RCA, entrevistas, métricas, filtros de dados",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 520,
+        "numero": 10,
+        "questao": "Como o feedback do usuário é analisado e otimizado para melhoria contínua?",
+        "diretriz": "São usados relatórios padrão de ferramentas de feedback e o resultado é otimizado",
+        "pontos": 4,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 521,
+        "numero": 10,
+        "questao": "Como o feedback do usuário é analisado e otimizado para melhoria contínua?",
+        "diretriz": "São usadas ferramentas de análise DevOps e feedback otimizado para melhoria contínua",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 522,
+        "numero": 11,
+        "questao": "Como os pontos críticos obtidos do feedback são convertidos em itens de ação?",
+        "diretriz": "Não coletamos feedback de forma consistente",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 523,
+        "numero": 11,
+        "questao": "Como os pontos críticos obtidos do feedback são convertidos em itens de ação?",
+        "diretriz": "Usando planilhas Excel",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 524,
+        "numero": 11,
+        "questao": "Como os pontos críticos obtidos do feedback são convertidos em itens de ação?",
+        "diretriz": "Via ferramenta DevOps, integrada com o planejamento de negócios",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 525,
+        "numero": 12,
+        "questao": "As suas equipes conseguem acessar facilmente dados analíticos de comportamento e utilização, a fim de conduzir melhorias?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 526,
+        "numero": 12,
+        "questao": "As suas equipes conseguem acessar facilmente dados analíticos de comportamento e utilização, a fim de conduzir melhorias?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 527,
+        "numero": 12,
+        "questao": "As suas equipes conseguem acessar facilmente dados analíticos de comportamento e utilização, a fim de conduzir melhorias?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 528,
+        "numero": 13,
+        "questao": "Você automatiza o feedback de performance crítica para otimizar ainda mais aplicações e serviços?",
+        "diretriz": "Não implementada",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 529,
+        "numero": 13,
+        "questao": "Você automatiza o feedback de performance crítica para otimizar ainda mais aplicações e serviços?",
+        "diretriz": "Parcialmente implementado",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 530,
+        "numero": 13,
+        "questao": "Você automatiza o feedback de performance crítica para otimizar ainda mais aplicações e serviços?",
+        "diretriz": "Totalmente implementado",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 531,
+        "numero": 14,
+        "questao": "Existe um mecanismo de feedback entre equipes? Como isto é praticado?",
+        "diretriz": "Os feedbacks não são compartilhados",
+        "pontos": 1,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 532,
+        "numero": 14,
+        "questao": "Existe um mecanismo de feedback entre equipes? Como isto é praticado?",
+        "diretriz": "Feedbacks são compartilhados apenas quando ocorrem problemas",
+        "pontos": 2,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 533,
+        "numero": 14,
+        "questao": "Existe um mecanismo de feedback entre equipes? Como isto é praticado?",
+        "diretriz": "Feedbacks são compartilhados periodicamente",
+        "pontos": 3,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 534,
+        "numero": 14,
+        "questao": "Existe um mecanismo de feedback entre equipes? Como isto é praticado?",
+        "diretriz": "Feedbacks são compartilhados durante os releases, mas não são monitorados",
+        "pontos": 4,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      },
+      {
+        "id": 535,
+        "numero": 14,
+        "questao": "Existe um mecanismo de feedback entre equipes? Como isto é praticado?",
+        "diretriz": "Feedbacks são compartilhados durante os releases, e são monitorados",
+        "pontos": 5,
+        "grupo": "feedback contínuo",
+        "pilar": "otimização"
+      }    
+  ]
+}
