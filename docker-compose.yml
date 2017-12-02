@@ -9,7 +9,7 @@ services:
     depends_on: 
       - devops-survey-api  
     links:
-      - devops-survey-api
+      - "devops-survey-api:localhost"
     deploy:
       restart_policy:
         condition: on-failure
@@ -21,7 +21,7 @@ services:
     build: ./json_data_devops
     container_name: devops-survey-api
     ports:
-     - "127.0.0.1:3000:3000"
+     - "3000:3000"
     deploy:
       restart_policy:
         condition: on-failure
