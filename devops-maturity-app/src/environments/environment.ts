@@ -5,5 +5,5 @@
 
 export const environment = {
   production: false,
-  apiDevOpsMaturityUrl: 'http://localhost:3000',
+  apiDevOpsMaturityUrl: 'http://127.0.0.1:3000',
 };

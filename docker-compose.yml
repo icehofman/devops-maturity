@@ -1,16 +1,30 @@
 version: '3'
+
 services:
-  web:
+  devops-survey-web:
     build: ./devops-maturity-app
+    container_name: devops-survey-web
     ports:
      - "8080:80"
     depends_on: 
-      - api  
+      - devops-survey-api  
     links:
-      - api
+      - devops-survey-api
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+        window: 120s  
  
-  api:
+  devops-survey-api:
     build: ./json_data_devops
+    container_name: devops-survey-api
     ports:
-     - "3000:3000"
-    restart: always 
+     - "127.0.0.1:3000:3000"
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+        window: 120s 
