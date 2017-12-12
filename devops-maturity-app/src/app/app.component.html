@@ -1,11 +1,61 @@
-<!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
+<div>
   <h1>
     {{title}}
   </h1>
-    <tr *ngFor="let question of questionsObservable | async; let i = index" >
-        <td>{{i}}</td>    
-        <td> {{question.questao}}</td>
-        <td>{{question.grupo}}</td>        
-    </tr> 
+  <h2>
+    {{PessoasCultura}}
+  </h2>
+  <tr *ngFor="let question of pessoasCultura | async; let i = index">
+    <td>{{question.numero}}</td>
+    <td> {{question.questao}}</td>
+  </tr>
+  <h2>
+    {{PlanejamentoContinuo}}
+  </h2>
+  <tr *ngFor="let question of planejamentoContinuo | async; let i = index">
+    <td>{{question.numero}}</td>
+    <td> {{question.questao}}</td>
+  </tr>
+  <h2>
+    {{IntegracaoContinua}}
+  </h2>
+  <tr *ngFor="let question of integracaoContinua | async; let i = index">
+    <td>{{question.numero}}</td>
+    <td> {{question.questao}}</td>
+  </tr>
+  <h2>
+    {{TestesContinuos}}
+  </h2>
+  <tr *ngFor="let question of testesContinuos | async; let i = index">
+    <td>{{question.numero}}</td>
+    <td> {{question.questao}}</td>
+  </tr>
+  <h2>
+    {{InfraestruturaCodigo}}
+  </h2>
+  <tr *ngFor="let question of infraestruturaCodigo | async; let i = index">
+    <td>{{question.numero}}</td>
+    <td> {{question.questao}}</td>
+  </tr>
+  <h2>
+    {{EntregaContinua}}
+  </h2>
+  <tr *ngFor="let question of entregaContinua | async; let i = index">
+    <td>{{question.numero}}</td>
+    <td> {{question.questao}}</td>
+  </tr>
+  <h2>
+    {{MonitoracaoContinua}}
+  </h2>
+  <tr *ngFor="let question of monitoracaoContinua | async; let i = index">
+    <td>{{question.numero}}</td>
+    <td> {{question.questao}}</td>
+  </tr>
+  <h2>
+    {{FeedbackContinuo}}
+  </h2>
+  <tr *ngFor="let question of feedbackContinuo | async; let i = index">
+    <td>{{question.numero}}</td>
+    <td> {{question.questao}}</td>
+  </tr>
 </div>
