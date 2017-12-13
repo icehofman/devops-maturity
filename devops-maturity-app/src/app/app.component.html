@@ -5,73 +5,73 @@
   <h2>
     {{PessoasCultura}}
   </h2>
-  <tr *ngFor="let question of pessoasCultura | async">
-    <td *ngIf="question.pontos==1">{{question.questao}}</td>
-    <td>
+  <div *ngFor="let question of pessoasCultura | async">
+    <h4 *ngIf="question.pontos==1">{{question.questao}}</h4>
+    <li>
       <input type="checkbox" />{{question.diretriz}}
-    </td>
-  </tr>
+    </li>
+  </div>
   <h2>
     {{PlanejamentoContinuo}}
   </h2>
-  <tr *ngFor="let question of planejamentoContinuo | async">
-    <td *ngIf="question.pontos==1">{{question.questao}}</td>
-    <td>
+  <div *ngFor="let question of planejamentoContinuo | async">
+    <h4 *ngIf="question.pontos==1">{{question.questao}}</h4>
+    <li>
       <input type="checkbox" />{{question.diretriz}}
-    </td>
-  </tr>
+    </li>
+  </div>
   <h2>
     {{IntegracaoContinua}}
   </h2>
-  <tr *ngFor="let question of integracaoContinua | async">
-    <td *ngIf="question.pontos==1">{{question.questao}}</td>
-    <td>
+  <div *ngFor="let question of integracaoContinua | async">
+    <h4 *ngIf="question.pontos==1">{{question.questao}}</h4>
+    <li>
       <input type="checkbox" />{{question.diretriz}}
-    </td>
-  </tr>
+    </li>
+  </div>
   <h2>
     {{TestesContinuos}}
   </h2>
-  <tr *ngFor="let question of testesContinuos | async">
-    <td *ngIf="question.pontos==1">{{question.questao}}</td>
-    <td>
+  <div *ngFor="let question of testesContinuos | async">
+    <h4 *ngIf="question.pontos==1">{{question.questao}}</h4>
+    <li>
       <input type="checkbox" />{{question.diretriz}}
-    </td>
-  </tr>
+    </li>
+  </div>
   <h2>
     {{InfraestruturaCodigo}}
   </h2>
-  <tr *ngFor="let question of infraestruturaCodigo | async">
-    <td *ngIf="question.pontos==1">{{question.questao}}</td>
-    <td>
+  <div *ngFor="let question of infraestruturaCodigo | async">
+    <h4 *ngIf="question.pontos==1">{{question.questao}}</h4>
+    <li>
       <input type="checkbox" />{{question.diretriz}}
-    </td>
-  </tr>
+    </li>
+  </div>
   <h2>
     {{EntregaContinua}}
   </h2>
-  <tr *ngFor="let question of entregaContinua | async">
-    <td *ngIf="question.pontos==1">{{question.questao}}</td>
-    <td>
+  <div *ngFor="let question of entregaContinua | async">
+    <h4 *ngIf="question.pontos==1">{{question.questao}}</h4>
+    <li>
       <input type="checkbox" />{{question.diretriz}}
-    </td>
-  </tr>
+    </li>
+  </div>
   <h2>
     {{MonitoracaoContinua}}
   </h2>
-  <tr *ngFor="let question of monitoracaoContinua | async">
-    <td *ngIf="question.pontos==1">{{question.questao}}</td>
-    <td>
+  <div *ngFor="let question of monitoracaoContinua | async">
+    <h4 *ngIf="question.pontos==1">{{question.questao}}</h4>
+    <li>
       <input type="checkbox" />{{question.diretriz}}
-    </td>
-  </tr>
+    </li>
+  </div>
   <h2>
     {{FeedbackContinuo}}
   </h2>
-  <tr *ngFor="let question of feedbackContinuo | async">
-    <td *ngIf="question.pontos==1">{{question.questao}}</td>
-    <td>
+  <div *ngFor="let question of feedbackContinuo | async">
+    <h4 *ngIf="question.pontos==1">{{question.questao}}</h4>
+    <li>
       <input type="checkbox" />{{question.diretriz}}
-    </td>
-  </tr>
+    </li>
+  </div>
 </div>
