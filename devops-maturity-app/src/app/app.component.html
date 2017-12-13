@@ -8,6 +8,9 @@
   <tr *ngFor="let question of pessoasCultura | async">
     <td *ngIf="question.pontos==1">{{question.numero}}</td>
     <td *ngIf="question.pontos==1">{{question.questao}}</td>
+    <td>
+      <input type="checkbox" />{{question.diretriz}}
+    </td>
   </tr>
   <h2>
     {{PlanejamentoContinuo}}
@@ -15,6 +18,9 @@
   <tr *ngFor="let question of planejamentoContinuo | async">
     <td *ngIf="question.pontos==1">{{question.numero}}</td>
     <td *ngIf="question.pontos==1">{{question.questao}}</td>
+    <td>
+      <input type="checkbox" />{{question.diretriz}}
+    </td>
   </tr>
   <h2>
     {{IntegracaoContinua}}
@@ -22,6 +28,9 @@
   <tr *ngFor="let question of integracaoContinua | async">
     <td *ngIf="question.pontos==1">{{question.numero}}</td>
     <td *ngIf="question.pontos==1">{{question.questao}}</td>
+    <td>
+      <input type="checkbox" />{{question.diretriz}}
+    </td>
   </tr>
   <h2>
     {{TestesContinuos}}
@@ -29,6 +38,9 @@
   <tr *ngFor="let question of testesContinuos | async">
     <td *ngIf="question.pontos==1">{{question.numero}}</td>
     <td *ngIf="question.pontos==1">{{question.questao}}</td>
+    <td>
+      <input type="checkbox" />{{question.diretriz}}
+    </td>
   </tr>
   <h2>
     {{InfraestruturaCodigo}}
@@ -36,6 +48,9 @@
   <tr *ngFor="let question of infraestruturaCodigo | async">
     <td *ngIf="question.pontos==1">{{question.numero}}</td>
     <td *ngIf="question.pontos==1">{{question.questao}}</td>
+    <td>
+      <input type="checkbox" />{{question.diretriz}}
+    </td>
   </tr>
   <h2>
     {{EntregaContinua}}
@@ -43,6 +58,9 @@
   <tr *ngFor="let question of entregaContinua | async">
     <td *ngIf="question.pontos==1">{{question.numero}}</td>
     <td *ngIf="question.pontos==1">{{question.questao}}</td>
+    <td>
+      <input type="checkbox" />{{question.diretriz}}
+    </td>
   </tr>
   <h2>
     {{MonitoracaoContinua}}
@@ -50,6 +68,9 @@
   <tr *ngFor="let question of monitoracaoContinua | async">
     <td *ngIf="question.pontos==1">{{question.numero}}</td>
     <td *ngIf="question.pontos==1">{{question.questao}}</td>
+    <td>
+      <input type="checkbox" />{{question.diretriz}}
+    </td>
   </tr>
   <h2>
     {{FeedbackContinuo}}
@@ -57,5 +78,8 @@
   <tr *ngFor="let question of feedbackContinuo | async">
     <td *ngIf="question.pontos==1">{{question.numero}}</td>
     <td *ngIf="question.pontos==1">{{question.questao}}</td>
+    <td>
+      <input type="checkbox" />{{question.diretriz}}
+    </td>
   </tr>
 </div>
