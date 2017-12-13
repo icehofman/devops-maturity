@@ -14,34 +14,34 @@ export class QuestionsService {
   }
 
   getPessoasCulturaAll() {
-    return this.http.get<Iquestions>(this.baseUrl + '/questions?grupo=pessoas e cultura');
+    return this.http.get<Iquestions>(this.baseUrl + '/questions?pontos=1&grupo=pessoas e cultura');
   }
 
   getPlanejamentoContinuoAll() {
-    return this.http.get<Iquestions>(this.baseUrl + '/questions?grupo=planejamento continuo');
+    return this.http.get<Iquestions>(this.baseUrl + '/questions?pontos=1&grupo=planejamento continuo');
   }
 
   getIntegracaoContinuaAll() {
-    return this.http.get<Iquestions>(this.baseUrl + '/questions?grupo=integração continua');
+    return this.http.get<Iquestions>(this.baseUrl + '/questions?pontos=1&grupo=integração continua');
   }
 
   getTestesContinuosAll() {
-    return this.http.get<Iquestions>(this.baseUrl + '/questions?grupo=testes continuos');
+    return this.http.get<Iquestions>(this.baseUrl + '/questions?pontos=1&grupo=testes continuos');
   }
 
   getInfraestruturaCodigoAll() {
-    return this.http.get<Iquestions>(this.baseUrl + '/questions?grupo=infraestrutura como código');
+    return this.http.get<Iquestions>(this.baseUrl + '/questions?pontos=1&grupo=infraestrutura como código');
   }
 
   getEntregaContinuaAll() {
-    return this.http.get<Iquestions>(this.baseUrl + '/questions?grupo=entrega continua');
+    return this.http.get<Iquestions>(this.baseUrl + '/questions?pontos=1&grupo=entrega continua');
   }
 
   getMonitoracaoContinuaAll() {
-    return this.http.get<Iquestions>(this.baseUrl + '/questions?grupo=monitoração continua');
+    return this.http.get<Iquestions>(this.baseUrl + '/questions?pontos=1&grupo=monitoração continua');
   }
 
   getFeedbackContinuoAll() {
-    return this.http.get<Iquestions>(this.baseUrl + '/questions?grupo=feedback contínuo');
+    return this.http.get<Iquestions>(this.baseUrl + '/questions?pontos=1&grupo=feedback contínuo');
   }
 }
